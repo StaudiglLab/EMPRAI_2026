@@ -1,0 +1,1956 @@
+0.0953 	EXP 	Input Frame Rate: 240.000 Hz
+0.0953 	EXP 	Determined Frame Rate: 240.177 Hz
+0.1204 	EXP 	subjectName: 'Sub_21'
+0.1205 	EXP 	session: 1
+0.1205 	EXP 	language: 'DE'
+0.1206 	EXP 	nBlocks: 6
+0.1206 	EXP 	nTrialsPerBlock: 40
+0.1206 	EXP 	dominantEye: 'R'
+0.1207 	EXP 	monitorRefreshRate: 240.
+0.1207 	EXP 	monitorWidth: 59.6
+0.1208 	EXP 	monitorDistance: 70.
+0.1208 	EXP 	nTrialsTotal: 240
+0.1209 	EXP 	nTrialsPractise: 25
+0.1209 	EXP 	fixSize: 1.
+0.1209 	EXP 	conditions: {'arrowDirection': ['L', 'R'], 'latency': [0, 50, 100, 200, 400]}
+0.1210 	EXP 	holdGazeRadius: 2.5
+0.1210 	EXP 	maxWaitTimeForResponseInSec: 2
+0.1211 	EXP 	maxWaitTimeForSaccadeInSec: 5
+0.1211 	EXP 	maskDuration: 0.5
+0.1212 	EXP 	fixationJitterInSec: [0.2 0.4]
+0.1212 	EXP 	postResponseBlankTime: 1.5
+0.1213 	EXP 	nTrialsFeedback: 1
+0.1213 	EXP 	keyMapping: ['left' 'right']
+0.1214 	EXP 	targetSize: 1.
+0.1214 	EXP 	scoreIncrement: 10
+0.1214 	EXP 	maxContagCondRepeat: 3
+0.1215 	EXP 	tagFlipScreen: True
+0.1215 	EXP 	delTForVelocity: 5.
+0.1216 	EXP 	velThreshold: 20
+0.1216 	EXP 	velThresholdMax: 100
+0.1216 	EXP 	staircaseStartPoint: 100
+0.1217 	EXP 	staircaseStepSizeCorrect: 1
+0.1217 	EXP 	staircaseStepSizeIncorrect: 3
+0.1217 	EXP 	staircaseStepSizeInitial: 10
+0.1218 	EXP 	qualityCheckDuration: 5
+0.1218 	EXP 	screenWidthInPix: 1920
+0.1218 	EXP 	screenHeightInPix: 1080
+0.1218 	EXP 	Added new global key event: quitKey
+0.2094 	EXP 	Removed global key event: 'quitKey'.
+168.7292 	DATA 	Keypress: return
+169.2483 	EXP 	Device response: <KeyPress from None: t=168.72904920578003, value=return, duration=None>
+169.2483 	EXP 	Device response: <KeyPress from None: t=168.72904920578003, value=return, duration=0.12791109085083008>
+169.2484 	EXP 	Device response: <KeyPress from None: t=168.9530520439148, value=return, duration=None>
+169.2484 	EXP 	Device response: <KeyPress from None: t=168.9530520439148, value=return, duration=0.06399917602539062>
+220.2107 	EXP 	Device response: <KeyPress from None: t=220.2011148929596, value=c, duration=None>
+220.2215 	DATA 	Keypress: return
+220.2234 	DATA 	Keypress: c
+220.4432 	EXP 	Device response: <KeyPress from None: t=220.2011148929596, value=c, duration=0.23996257781982422>
+226.6358 	EXP 	Device response: <KeyPress from None: t=226.63306665420532, value=return, duration=None>
+226.6487 	DATA 	Keypress: return
+226.7728 	EXP 	Device response: <KeyPress from None: t=226.63306665420532, value=return, duration=0.07999134063720703>
+276.9109 	EXP 	window1: units = 'norm'
+276.9110 	EXP 	window1: units = 'pix'
+295.7771 	EXP 	Device response: <KeyPress from None: t=295.76912331581116, value=escape, duration=None>
+295.7860 	EXP 	window1: units = 'norm'
+295.7861 	EXP 	window1: units = 'pix'
+295.7878 	DATA 	Keypress: escape
+295.7902 	EXP 	Added new global key event: quitKey
+307.7379 	DATA 	Keypress: l
+369.3530 	DATA 	Keypress: e
+372.5689 	DATA 	Keypress: e
+376.5689 	DATA 	Keypress: e
+383.4009 	DATA 	Keypress: 3
+397.3049 	DATA 	Keypress: e
+400.2649 	DATA 	Keypress: 3
+405.4009 	DATA 	Keypress: 3
+436.7610 	DATA 	Keypress: 3
+441.4969 	DATA 	Keypress: 3
+502.3450 	DATA 	Keypress: space
+502.3451 	EXP 	StartPractice
+502.3521 	EXP 	Starting Trial Number 1
+502.3534 	EXP 	fixationDurationInSec:0.337
+502.3534 	EXP 	targetDistance:L
+502.3534 	EXP 	blankDurationInFrameCount:100
+502.3535 	EXP 	displacement:0.5000
+502.3566 	EXP 	startFixDisplay
+502.5859 	EXP 	startFixPeriod
+502.9190 	EXP 	targetPresented
+502.9274 	EXP 	blankDurationStart
+503.3436 	EXP 	maskStart
+503.8395 	EXP 	Device response: <KeyPress from None: t=307.73721647262573, value=l, duration=None>
+503.8395 	EXP 	Device response: <KeyPress from None: t=307.73721647262573, value=l, duration=0.1276378631591797>
+503.8395 	EXP 	Device response: <KeyPress from None: t=369.35295820236206, value=e, duration=None>
+503.8395 	EXP 	Device response: <KeyPress from None: t=369.35295820236206, value=e, duration=0.11194419860839844>
+503.8395 	EXP 	Device response: <KeyPress from None: t=372.5689105987549, value=e, duration=None>
+503.8396 	EXP 	Device response: <KeyPress from None: t=372.5689105987549, value=e, duration=0.15998625755310059>
+503.8396 	EXP 	Device response: <KeyPress from None: t=376.56891322135925, value=e, duration=None>
+503.8396 	EXP 	Device response: <KeyPress from None: t=376.56891322135925, value=e, duration=0.23998808860778809>
+503.8396 	EXP 	Device response: <KeyPress from None: t=383.40091490745544, value=3, duration=None>
+503.8396 	EXP 	Device response: <KeyPress from None: t=383.40091490745544, value=3, duration=0.15999555587768555>
+503.8396 	EXP 	Device response: <KeyPress from None: t=397.30493426322937, value=e, duration=None>
+503.8396 	EXP 	Device response: <KeyPress from None: t=397.30493426322937, value=e, duration=0.15996503829956055>
+503.8396 	EXP 	Device response: <KeyPress from None: t=400.2649166584015, value=3, duration=None>
+503.8397 	EXP 	Device response: <KeyPress from None: t=400.2649166584015, value=3, duration=0.14398455619812012>
+503.8397 	EXP 	Device response: <KeyPress from None: t=405.4009163379669, value=3, duration=None>
+503.8397 	EXP 	Device response: <KeyPress from None: t=405.4009163379669, value=3, duration=0.14398431777954102>
+503.8397 	EXP 	Device response: <KeyPress from None: t=436.76097202301025, value=3, duration=None>
+503.8397 	EXP 	Device response: <KeyPress from None: t=436.76097202301025, value=3, duration=0.14394354820251465>
+503.8397 	EXP 	Device response: <KeyPress from None: t=441.49693775177, value=3, duration=None>
+503.8397 	EXP 	Device response: <KeyPress from None: t=441.49693775177, value=3, duration=0.1439816951751709>
+503.8398 	EXP 	Device response: <KeyPress from None: t=502.3449852466583, value=space, duration=None>
+503.8398 	EXP 	Device response: <KeyPress from None: t=502.3449852466583, value=space, duration=0.1119997501373291>
+503.8398 	EXP 	Device response: <KeyPress from None: t=295.76912331581116, value=escape, duration=0.15982413291931152>
+503.8430 	EXP 	maskEnd
+505.2588 	EXP 	Device response: <KeyPress from None: t=505.2569878101349, value=left, duration=None>
+505.2602 	DATA 	Keypress: left
+505.3879 	EXP 	Device response: <KeyPress from None: t=505.2569878101349, value=left, duration=0.12798404693603516>
+505.3881 	EXP 	LeftResponse
+505.3919 	EXP 	EndOfTrial
+505.4086 	EXP 	FeedbackPeriodStarted
+506.9102 	EXP 	Starting Trial Number 2
+506.9112 	EXP 	fixationDurationInSec:0.214
+506.9113 	EXP 	targetDistance:L
+506.9113 	EXP 	blankDurationInFrameCount:90
+506.9113 	EXP 	displacement:0.5000
+506.9157 	EXP 	startFixDisplay
+507.0199 	EXP 	startFixPeriod
+507.2323 	EXP 	targetPresented
+507.2406 	EXP 	blankDurationStart
+507.6154 	EXP 	maskStart
+508.1150 	EXP 	maskEnd
+508.5533 	DATA 	Keypress: left
+508.5562 	EXP 	Device response: <KeyPress from None: t=508.55290961265564, value=left, duration=None>
+508.6687 	EXP 	Device response: <KeyPress from None: t=508.55290961265564, value=left, duration=0.11205410957336426>
+508.6688 	EXP 	LeftResponse
+508.6727 	EXP 	EndOfTrial
+508.6852 	EXP 	FeedbackPeriodStarted
+510.2111 	EXP 	Starting Trial Number 3
+510.2118 	EXP 	fixationDurationInSec:0.236
+510.2119 	EXP 	targetDistance:L
+510.2119 	EXP 	blankDurationInFrameCount:80
+510.2119 	EXP 	displacement:0.5000
+510.2130 	EXP 	startFixDisplay
+510.4505 	EXP 	startFixPeriod
+510.6837 	EXP 	targetPresented
+510.6920 	EXP 	blankDurationStart
+511.0251 	EXP 	maskStart
+511.5246 	EXP 	maskEnd
+511.6578 	EXP 	Device response: <KeyPress from None: t=511.65711522102356, value=left, duration=None>
+511.6591 	DATA 	Keypress: left
+511.7870 	EXP 	Device response: <KeyPress from None: t=511.65711522102356, value=left, duration=0.1278083324432373>
+511.7870 	EXP 	LeftResponse
+511.7911 	EXP 	EndOfTrial
+511.7993 	EXP 	FeedbackPeriodStarted
+513.3256 	EXP 	Starting Trial Number 4
+513.3264 	EXP 	fixationDurationInSec:0.302
+513.3264 	EXP 	targetDistance:L
+513.3265 	EXP 	blankDurationInFrameCount:70
+513.3265 	EXP 	displacement:0.5000
+513.3274 	EXP 	startFixDisplay
+516.3960 	EXP 	startFixPeriod
+516.6956 	EXP 	targetPresented
+516.7040 	EXP 	blankDurationStart
+516.9956 	EXP 	maskStart
+517.4950 	EXP 	maskEnd
+517.8823 	EXP 	Device response: <KeyPress from None: t=517.8809971809387, value=left, duration=None>
+517.8841 	DATA 	Keypress: left
+518.0446 	EXP 	Device response: <KeyPress from None: t=517.8809971809387, value=left, duration=0.15992307662963867>
+518.0448 	EXP 	LeftResponse
+518.0487 	EXP 	EndOfTrial
+518.0569 	EXP 	FeedbackPeriodStarted
+519.5620 	EXP 	Starting Trial Number 5
+519.5628 	EXP 	fixationDurationInSec:0.272
+519.5628 	EXP 	targetDistance:L
+519.5629 	EXP 	blankDurationInFrameCount:60
+519.5629 	EXP 	displacement:0.5000
+519.5641 	EXP 	startFixDisplay
+519.5684 	EXP 	startFixPeriod
+519.8390 	EXP 	targetPresented
+523.3608 	EXP 	Starting Trial Number 6
+523.3616 	EXP 	fixationDurationInSec:0.230
+523.3616 	EXP 	targetDistance:R
+523.3616 	EXP 	blankDurationInFrameCount:70
+523.3616 	EXP 	displacement:0.5000
+523.3654 	EXP 	startFixDisplay
+523.5446 	EXP 	startFixPeriod
+523.7735 	EXP 	targetPresented
+523.7819 	EXP 	blankDurationStart
+524.0733 	EXP 	maskStart
+524.5729 	EXP 	maskEnd
+525.0184 	EXP 	Device response: <KeyPress from None: t=525.0170423984528, value=right, duration=None>
+525.0201 	DATA 	Keypress: right
+525.1306 	EXP 	Device response: <KeyPress from None: t=525.0170423984528, value=right, duration=0.11186051368713379>
+525.1306 	EXP 	RightResponse
+525.1348 	EXP 	EndOfTrial
+525.1431 	EXP 	FeedbackPeriodStarted
+526.6440 	EXP 	Starting Trial Number 7
+526.6448 	EXP 	fixationDurationInSec:0.222
+526.6448 	EXP 	targetDistance:R
+526.6448 	EXP 	blankDurationInFrameCount:60
+526.6448 	EXP 	displacement:0.5000
+526.6461 	EXP 	startFixDisplay
+538.5619 	EXP 	startFixPeriod
+538.7826 	EXP 	targetPresented
+538.7909 	EXP 	blankDurationStart
+539.0407 	EXP 	maskStart
+539.5402 	EXP 	maskEnd
+540.1855 	EXP 	Device response: <KeyPress from None: t=540.185004234314, value=right, duration=None>
+540.1868 	DATA 	Keypress: right
+540.2731 	EXP 	Device response: <KeyPress from None: t=540.185004234314, value=right, duration=0.0799567699432373>
+540.2733 	EXP 	RightResponse
+540.2771 	EXP 	EndOfTrial
+540.2897 	EXP 	FeedbackPeriodStarted
+541.7965 	EXP 	Starting Trial Number 8
+541.7973 	EXP 	fixationDurationInSec:0.215
+541.7973 	EXP 	targetDistance:R
+541.7973 	EXP 	blankDurationInFrameCount:50
+541.7973 	EXP 	displacement:0.5000
+541.8010 	EXP 	startFixDisplay
+545.0361 	EXP 	startFixPeriod
+545.2485 	EXP 	targetPresented
+548.7658 	EXP 	Starting Trial Number 9
+548.7666 	EXP 	fixationDurationInSec:0.379
+548.7666 	EXP 	targetDistance:R
+548.7666 	EXP 	blankDurationInFrameCount:60
+548.7666 	EXP 	displacement:0.5000
+548.7704 	EXP 	startFixDisplay
+548.7956 	EXP 	startFixPeriod
+549.1703 	EXP 	targetPresented
+552.6923 	EXP 	Starting Trial Number 10
+552.6930 	EXP 	fixationDurationInSec:0.264
+552.6930 	EXP 	targetDistance:L
+552.6930 	EXP 	blankDurationInFrameCount:70
+552.6930 	EXP 	displacement:0.5000
+552.6967 	EXP 	startFixDisplay
+553.7959 	EXP 	startFixPeriod
+554.0582 	EXP 	targetPresented
+557.5799 	EXP 	Starting Trial Number 11
+557.5807 	EXP 	fixationDurationInSec:0.238
+557.5807 	EXP 	targetDistance:R
+557.5807 	EXP 	blankDurationInFrameCount:80
+557.5807 	EXP 	displacement:0.5000
+557.5846 	EXP 	startFixDisplay
+558.2049 	EXP 	startFixPeriod
+558.4422 	EXP 	targetPresented
+561.9634 	EXP 	Starting Trial Number 12
+561.9642 	EXP 	fixationDurationInSec:0.267
+561.9642 	EXP 	targetDistance:R
+561.9642 	EXP 	blankDurationInFrameCount:90
+561.9642 	EXP 	displacement:0.5000
+561.9686 	EXP 	startFixDisplay
+561.9728 	EXP 	startFixPeriod
+562.2394 	EXP 	targetPresented
+562.2477 	EXP 	blankDurationStart
+562.6224 	EXP 	maskStart
+563.1220 	EXP 	maskEnd
+563.8813 	DATA 	Keypress: right
+563.8839 	EXP 	Device response: <KeyPress from None: t=563.8810040950775, value=right, duration=None>
+564.0252 	EXP 	Device response: <KeyPress from None: t=563.8810040950775, value=right, duration=0.14403176307678223>
+564.0253 	EXP 	RightResponse
+564.0294 	EXP 	EndOfTrial
+564.0378 	EXP 	FeedbackPeriodStarted
+565.5474 	EXP 	Starting Trial Number 13
+565.5482 	EXP 	fixationDurationInSec:0.313
+565.5482 	EXP 	targetDistance:L
+565.5482 	EXP 	blankDurationInFrameCount:80
+565.5482 	EXP 	displacement:0.5000
+565.5491 	EXP 	startFixDisplay
+565.8406 	EXP 	startFixPeriod
+566.1529 	EXP 	targetPresented
+569.6702 	EXP 	Starting Trial Number 14
+569.6710 	EXP 	fixationDurationInSec:0.226
+569.6710 	EXP 	targetDistance:L
+569.6710 	EXP 	blankDurationInFrameCount:90
+569.6710 	EXP 	displacement:0.5000
+569.6750 	EXP 	startFixDisplay
+569.7625 	EXP 	startFixPeriod
+569.9875 	EXP 	targetPresented
+573.5091 	EXP 	Starting Trial Number 15
+573.5099 	EXP 	fixationDurationInSec:0.330
+573.5100 	EXP 	targetDistance:R
+573.5100 	EXP 	blankDurationInFrameCount:100
+573.5100 	EXP 	displacement:0.5000
+573.5137 	EXP 	startFixDisplay
+578.1102 	EXP 	startFixPeriod
+578.4392 	EXP 	targetPresented
+581.9571 	EXP 	Starting Trial Number 16
+581.9579 	EXP 	fixationDurationInSec:0.241
+581.9579 	EXP 	targetDistance:R
+581.9579 	EXP 	blankDurationInFrameCount:110
+581.9579 	EXP 	displacement:0.5000
+581.9612 	EXP 	startFixDisplay
+582.4609 	EXP 	startFixPeriod
+582.6984 	EXP 	targetPresented
+582.7067 	EXP 	blankDurationStart
+583.1647 	EXP 	maskStart
+583.6685 	EXP 	maskEnd
+584.2346 	EXP 	Device response: <KeyPress from None: t=584.2330214977264, value=right, duration=None>
+584.2362 	DATA 	Keypress: right
+584.4093 	EXP 	Device response: <KeyPress from None: t=584.2330214977264, value=right, duration=0.17603039741516113>
+584.4093 	EXP 	RightResponse
+584.4136 	EXP 	EndOfTrial
+584.4261 	EXP 	FeedbackPeriodStarted
+585.9442 	EXP 	Starting Trial Number 17
+585.9450 	EXP 	fixationDurationInSec:0.227
+585.9450 	EXP 	targetDistance:R
+585.9450 	EXP 	blankDurationInFrameCount:100
+585.9450 	EXP 	displacement:0.5000
+585.9499 	EXP 	startFixDisplay
+586.0040 	EXP 	startFixPeriod
+586.2289 	EXP 	targetPresented
+586.2372 	EXP 	blankDurationStart
+586.6536 	EXP 	maskStart
+587.1532 	EXP 	maskEnd
+587.7211 	DATA 	Keypress: right
+587.7235 	EXP 	Device response: <KeyPress from None: t=587.7209324836731, value=right, duration=None>
+587.9150 	EXP 	Device response: <KeyPress from None: t=587.7209324836731, value=right, duration=0.19204211235046387>
+587.9151 	EXP 	RightResponse
+587.9191 	EXP 	EndOfTrial
+587.9274 	EXP 	FeedbackPeriodStarted
+589.4493 	EXP 	Starting Trial Number 18
+589.4500 	EXP 	fixationDurationInSec:0.258
+589.4500 	EXP 	targetDistance:L
+589.4500 	EXP 	blankDurationInFrameCount:90
+589.4501 	EXP 	displacement:0.5000
+589.4511 	EXP 	startFixDisplay
+594.0644 	EXP 	startFixPeriod
+594.3184 	EXP 	targetPresented
+597.8359 	EXP 	Starting Trial Number 19
+597.8367 	EXP 	fixationDurationInSec:0.275
+597.8367 	EXP 	targetDistance:L
+597.8367 	EXP 	blankDurationInFrameCount:100
+597.8367 	EXP 	displacement:0.5000
+597.8406 	EXP 	startFixDisplay
+606.4090 	EXP 	startFixPeriod
+606.6837 	EXP 	targetPresented
+606.6921 	EXP 	blankDurationStart
+607.1084 	EXP 	maskStart
+607.6080 	EXP 	maskEnd
+607.9617 	EXP 	Device response: <KeyPress from None: t=607.9611411094666, value=left, duration=None>
+607.9630 	DATA 	Keypress: left
+608.1242 	EXP 	Device response: <KeyPress from None: t=607.9611411094666, value=left, duration=0.15979528427124023>
+608.1243 	EXP 	LeftResponse
+608.1284 	EXP 	EndOfTrial
+608.1324 	EXP 	FeedbackPeriodStarted
+609.6881 	EXP 	Starting Trial Number 20
+609.6889 	EXP 	fixationDurationInSec:0.205
+609.6890 	EXP 	targetDistance:L
+609.6890 	EXP 	blankDurationInFrameCount:90
+609.6890 	EXP 	displacement:0.5000
+609.6937 	EXP 	startFixDisplay
+609.9062 	EXP 	startFixPeriod
+610.1100 	EXP 	targetPresented
+613.6275 	EXP 	Starting Trial Number 21
+613.6283 	EXP 	fixationDurationInSec:0.212
+613.6283 	EXP 	targetDistance:L
+613.6283 	EXP 	blankDurationInFrameCount:100
+613.6283 	EXP 	displacement:0.5000
+613.6325 	EXP 	startFixDisplay
+617.5668 	EXP 	startFixPeriod
+617.7750 	EXP 	targetPresented
+617.7833 	EXP 	blankDurationStart
+618.1997 	EXP 	maskStart
+618.6991 	EXP 	maskEnd
+619.1613 	EXP 	Device response: <KeyPress from None: t=619.1610641479492, value=left, duration=None>
+619.1626 	DATA 	Keypress: left
+619.3239 	EXP 	Device response: <KeyPress from None: t=619.1610641479492, value=left, duration=0.15985536575317383>
+619.3241 	EXP 	LeftResponse
+619.3280 	EXP 	EndOfTrial
+619.3320 	EXP 	FeedbackPeriodStarted
+620.8541 	EXP 	Starting Trial Number 22
+620.8549 	EXP 	fixationDurationInSec:0.371
+620.8549 	EXP 	targetDistance:L
+620.8549 	EXP 	blankDurationInFrameCount:90
+620.8549 	EXP 	displacement:0.5000
+620.8558 	EXP 	startFixDisplay
+620.9641 	EXP 	startFixPeriod
+621.3347 	EXP 	targetPresented
+621.3430 	EXP 	blankDurationStart
+621.7177 	EXP 	maskStart
+622.2174 	EXP 	maskEnd
+622.6504 	EXP 	Device response: <KeyPress from None: t=622.6490414142609, value=left, duration=None>
+622.6521 	DATA 	Keypress: left
+622.7962 	EXP 	Device response: <KeyPress from None: t=622.6490414142609, value=left, duration=0.1438915729522705>
+622.7964 	EXP 	LeftResponse
+622.8002 	EXP 	EndOfTrial
+622.8043 	EXP 	FeedbackPeriodStarted
+624.3223 	EXP 	Starting Trial Number 23
+624.3231 	EXP 	fixationDurationInSec:0.241
+624.3232 	EXP 	targetDistance:L
+624.3232 	EXP 	blankDurationInFrameCount:80
+624.3232 	EXP 	displacement:0.5000
+624.3241 	EXP 	startFixDisplay
+624.5906 	EXP 	startFixPeriod
+624.8279 	EXP 	targetPresented
+628.3492 	EXP 	Starting Trial Number 24
+628.3500 	EXP 	fixationDurationInSec:0.274
+628.3500 	EXP 	targetDistance:R
+628.3500 	EXP 	blankDurationInFrameCount:90
+628.3500 	EXP 	displacement:0.5000
+628.3542 	EXP 	startFixDisplay
+630.4109 	EXP 	startFixPeriod
+630.6816 	EXP 	targetPresented
+634.1996 	EXP 	Starting Trial Number 25
+634.2004 	EXP 	fixationDurationInSec:0.241
+634.2004 	EXP 	targetDistance:L
+634.2004 	EXP 	blankDurationInFrameCount:100
+634.2005 	EXP 	displacement:0.5000
+634.2037 	EXP 	startFixDisplay
+635.5236 	EXP 	startFixPeriod
+635.7609 	EXP 	targetPresented
+639.2749 	EXP 	EndPractice
+639.2915 	EXP 	startNoiseCharacterization
+662.8731 	DATA 	Keypress: slash
+667.9802 	EXP 	medianPos:-0.6266 deg
+667.9802 	EXP 	MADPos:0.6505 deg
+667.9802 	EXP 	medianVelocity:0.0000 deg/sec
+667.9802 	EXP 	MADvelocity:9.2505 deg/sec
+763.8971 	DATA 	Keypress: k
+766.0891 	DATA 	Keypress: comma
+766.0952 	EXP 	Starting Trial Number 0
+766.0961 	EXP 	fixationDurationInSec:0.313
+766.0961 	EXP 	targetDistance:L
+766.0961 	EXP 	blankDurationInFrameCount:110
+766.0961 	EXP 	displacement:0.5000
+766.1007 	EXP 	startFixDisplay
+766.1133 	EXP 	startFixPeriod
+766.4256 	EXP 	startWaitForSaccade
+770.1874 	EXP 	Starting Trial Number 1
+770.1878 	EXP 	fixationDurationInSec:0.222
+770.1878 	EXP 	targetDistance:L
+770.1878 	EXP 	blankDurationInFrameCount:110
+770.1878 	EXP 	displacement:0.5000
+770.1891 	EXP 	startFixDisplay
+771.0636 	EXP 	startFixPeriod
+771.2842 	EXP 	startWaitForSaccade
+775.9008 	EXP 	Starting Trial Number 2
+775.9012 	EXP 	fixationDurationInSec:0.359
+775.9012 	EXP 	targetDistance:L
+775.9012 	EXP 	blankDurationInFrameCount:110
+775.9012 	EXP 	displacement:0.5000
+775.9056 	EXP 	startFixDisplay
+776.0722 	EXP 	startFixPeriod
+776.4302 	EXP 	startWaitForSaccade
+778.0581 	EXP 	targetPresented
+778.0665 	EXP 	blankDurationStart
+778.5244 	EXP 	maskStart
+779.0202 	EXP 	Device response: <KeyPress from None: t=662.8730325698853, value=slash, duration=None>
+779.0202 	EXP 	Device response: <KeyPress from None: t=662.8730325698853, value=slash, duration=0.11195755004882812>
+779.0202 	EXP 	Device response: <KeyPress from None: t=763.8970973491669, value=k, duration=None>
+779.0202 	EXP 	Device response: <KeyPress from None: t=763.8970973491669, value=k, duration=0.09595346450805664>
+779.0203 	EXP 	Device response: <KeyPress from None: t=766.0890638828278, value=comma, duration=None>
+779.0203 	EXP 	Device response: <KeyPress from None: t=766.0890638828278, value=comma, duration=0.09596061706542969>
+779.0240 	EXP 	maskEnd
+779.3862 	EXP 	Device response: <KeyPress from None: t=779.3851413726807, value=left, duration=None>
+779.3880 	DATA 	Keypress: left
+779.5321 	EXP 	Device response: <KeyPress from None: t=779.3851413726807, value=left, duration=0.1439228057861328>
+779.5321 	EXP 	LeftResponse
+779.5361 	EXP 	EndOfTrial
+779.5404 	EXP 	FeedbackPeriodStarted
+781.0465 	EXP 	Starting Trial Number 3
+781.0469 	EXP 	fixationDurationInSec:0.214
+781.0469 	EXP 	targetDistance:R
+781.0469 	EXP 	blankDurationInFrameCount:109
+781.0469 	EXP 	displacement:0.5000
+781.0516 	EXP 	startFixDisplay
+781.6054 	EXP 	startFixPeriod
+781.8176 	EXP 	startWaitForSaccade
+781.8509 	EXP 	targetPresented
+785.3708 	EXP 	Starting Trial Number 4
+785.3714 	EXP 	fixationDurationInSec:0.364
+785.3714 	EXP 	targetDistance:L
+785.3714 	EXP 	blankDurationInFrameCount:110
+785.3715 	EXP 	displacement:0.5000
+785.3730 	EXP 	startFixDisplay
+785.3940 	EXP 	startFixPeriod
+785.7562 	EXP 	startWaitForSaccade
+785.9645 	EXP 	targetPresented
+785.9728 	EXP 	blankDurationStart
+786.4307 	EXP 	maskStart
+786.4895 	DATA 	Keypress: left
+786.9264 	EXP 	Device response: <KeyPress from None: t=786.48912525177, value=left, duration=None>
+786.9264 	EXP 	Device response: <KeyPress from None: t=786.48912525177, value=left, duration=0.1279909610748291>
+786.9302 	EXP 	maskEnd
+787.8184 	DATA 	Keypress: left
+787.8215 	EXP 	Device response: <KeyPress from None: t=787.8170809745789, value=left, duration=None>
+787.9296 	EXP 	Device response: <KeyPress from None: t=787.8170809745789, value=left, duration=0.1119992733001709>
+787.9298 	EXP 	LeftResponse
+787.9337 	EXP 	EndOfTrial
+787.9379 	EXP 	FeedbackPeriodStarted
+789.4394 	EXP 	Starting Trial Number 5
+789.4398 	EXP 	fixationDurationInSec:0.380
+789.4399 	EXP 	targetDistance:R
+789.4399 	EXP 	blankDurationInFrameCount:109
+789.4399 	EXP 	displacement:0.5000
+789.4408 	EXP 	startFixDisplay
+789.4450 	EXP 	startFixPeriod
+789.8239 	EXP 	startWaitForSaccade
+795.0282 	EXP 	targetPresented
+795.0365 	EXP 	blankDurationStart
+795.4902 	EXP 	maskStart
+795.5947 	DATA 	Keypress: right
+795.9859 	EXP 	Device response: <KeyPress from None: t=795.5931355953217, value=right, duration=None>
+795.9860 	EXP 	Device response: <KeyPress from None: t=795.5931355953217, value=right, duration=0.17601609230041504>
+795.9899 	EXP 	maskEnd
+796.4271 	EXP 	Device response: <KeyPress from None: t=796.4250044822693, value=right, duration=None>
+796.4283 	DATA 	Keypress: right
+796.5563 	EXP 	Device response: <KeyPress from None: t=796.4250044822693, value=right, duration=0.1279754638671875>
+796.5565 	EXP 	RightResponse
+796.5602 	EXP 	EndOfTrial
+796.5643 	EXP 	FeedbackPeriodStarted
+798.0660 	EXP 	Starting Trial Number 6
+798.0665 	EXP 	fixationDurationInSec:0.259
+798.0665 	EXP 	targetDistance:R
+798.0665 	EXP 	blankDurationInFrameCount:110
+798.0665 	EXP 	displacement:0.5000
+798.0674 	EXP 	startFixDisplay
+798.4380 	EXP 	startFixPeriod
+798.6961 	EXP 	startWaitForSaccade
+799.0209 	EXP 	targetPresented
+799.0292 	EXP 	blankDurationStart
+799.4872 	EXP 	maskStart
+799.9868 	EXP 	maskEnd
+800.5543 	DATA 	Keypress: right
+800.5571 	EXP 	Device response: <KeyPress from None: t=800.5530476570129, value=right, duration=None>
+800.7155 	EXP 	Device response: <KeyPress from None: t=800.5530476570129, value=right, duration=0.15995001792907715>
+800.7157 	EXP 	RightResponse
+800.7195 	EXP 	EndOfTrial
+800.7236 	EXP 	FeedbackPeriodStarted
+802.2256 	EXP 	Starting Trial Number 7
+802.2260 	EXP 	fixationDurationInSec:0.236
+802.2260 	EXP 	targetDistance:R
+802.2260 	EXP 	blankDurationInFrameCount:110
+802.2260 	EXP 	displacement:0.5000
+802.2268 	EXP 	startFixDisplay
+802.4807 	EXP 	startFixPeriod
+802.7139 	EXP 	startWaitForSaccade
+807.8181 	EXP 	targetPresented
+807.8265 	EXP 	blankDurationStart
+808.2845 	EXP 	maskStart
+808.4433 	DATA 	Keypress: right
+808.7801 	EXP 	Device response: <KeyPress from None: t=808.4411888122559, value=right, duration=None>
+808.7802 	EXP 	Device response: <KeyPress from None: t=808.4411888122559, value=right, duration=0.1439378261566162>
+808.7841 	EXP 	maskEnd
+809.2103 	DATA 	Keypress: right
+809.2131 	EXP 	Device response: <KeyPress from None: t=809.2091100215912, value=right, duration=None>
+809.3545 	EXP 	Device response: <KeyPress from None: t=809.2091100215912, value=right, duration=0.14392447471618652>
+809.3547 	EXP 	RightResponse
+809.3586 	EXP 	EndOfTrial
+809.3627 	EXP 	FeedbackPeriodStarted
+810.9446 	EXP 	Starting Trial Number 8
+810.9450 	EXP 	fixationDurationInSec:0.389
+810.9450 	EXP 	targetDistance:R
+810.9450 	EXP 	blankDurationInFrameCount:109
+810.9450 	EXP 	displacement:0.5000
+810.9491 	EXP 	startFixDisplay
+811.1197 	EXP 	startFixPeriod
+811.5069 	EXP 	startWaitForSaccade
+815.2000 	EXP 	targetPresented
+815.2082 	EXP 	blankDurationStart
+815.6620 	EXP 	maskStart
+816.1617 	EXP 	maskEnd
+817.1152 	EXP 	Device response: <KeyPress from None: t=817.1130740642548, value=right, duration=None>
+817.1165 	DATA 	Keypress: right
+817.2608 	EXP 	Device response: <KeyPress from None: t=817.1130740642548, value=right, duration=0.14391183853149414>
+817.2608 	EXP 	RightResponse
+817.2649 	EXP 	EndOfTrial
+817.2690 	EXP 	FeedbackPeriodStarted
+818.7961 	EXP 	Starting Trial Number 9
+818.7966 	EXP 	fixationDurationInSec:0.207
+818.7966 	EXP 	targetDistance:L
+818.7966 	EXP 	blankDurationInFrameCount:109
+818.7966 	EXP 	displacement:0.5000
+818.8012 	EXP 	startFixDisplay
+819.0469 	EXP 	startFixPeriod
+819.2509 	EXP 	startWaitForSaccade
+824.2552 	EXP 	targetPresented
+824.2636 	EXP 	blankDurationStart
+824.7175 	EXP 	maskStart
+825.2171 	EXP 	maskEnd
+825.6752 	EXP 	Device response: <KeyPress from None: t=825.6731095314026, value=left, duration=None>
+825.6765 	DATA 	Keypress: left
+825.8041 	EXP 	Device response: <KeyPress from None: t=825.6731095314026, value=left, duration=0.12792539596557617>
+825.8041 	EXP 	LeftResponse
+825.8083 	EXP 	EndOfTrial
+825.8123 	EXP 	FeedbackPeriodStarted
+827.4237 	EXP 	Starting Trial Number 10
+827.4241 	EXP 	fixationDurationInSec:0.378
+827.4241 	EXP 	targetDistance:R
+827.4241 	EXP 	blankDurationInFrameCount:108
+827.4241 	EXP 	displacement:0.5000
+827.4279 	EXP 	startFixDisplay
+827.4444 	EXP 	startFixPeriod
+827.8192 	EXP 	startWaitForSaccade
+828.1149 	EXP 	targetPresented
+828.1232 	EXP 	blankDurationStart
+828.5728 	EXP 	maskStart
+829.0724 	EXP 	maskEnd
+829.6596 	EXP 	Device response: <KeyPress from None: t=829.6570401191711, value=right, duration=None>
+829.6613 	DATA 	Keypress: right
+829.7718 	EXP 	Device response: <KeyPress from None: t=829.6570401191711, value=right, duration=0.11190438270568848>
+829.7719 	EXP 	RightResponse
+829.7760 	EXP 	EndOfTrial
+829.7801 	EXP 	FeedbackPeriodStarted
+831.3448 	EXP 	Starting Trial Number 11
+831.3452 	EXP 	fixationDurationInSec:0.229
+831.3452 	EXP 	targetDistance:R
+831.3452 	EXP 	blankDurationInFrameCount:110
+831.3452 	EXP 	displacement:0.5000
+831.3499 	EXP 	startFixDisplay
+831.3539 	EXP 	startFixPeriod
+831.5787 	EXP 	startWaitForSaccade
+835.4632 	EXP 	Starting Trial Number 12
+835.4636 	EXP 	fixationDurationInSec:0.360
+835.4636 	EXP 	targetDistance:L
+835.4636 	EXP 	blankDurationInFrameCount:110
+835.4636 	EXP 	displacement:0.5000
+835.4674 	EXP 	startFixDisplay
+835.4714 	EXP 	startFixPeriod
+835.8296 	EXP 	startWaitForSaccade
+838.3360 	EXP 	targetPresented
+838.3444 	EXP 	blankDurationStart
+838.8023 	EXP 	maskStart
+839.3019 	EXP 	maskEnd
+839.9140 	EXP 	Device response: <KeyPress from None: t=839.9131066799164, value=left, duration=None>
+839.9153 	DATA 	Keypress: left
+840.0930 	EXP 	Device response: <KeyPress from None: t=839.9131066799164, value=left, duration=0.17593932151794434>
+840.0932 	EXP 	LeftResponse
+840.0971 	EXP 	EndOfTrial
+840.1013 	EXP 	FeedbackPeriodStarted
+841.6071 	EXP 	Starting Trial Number 13
+841.6075 	EXP 	fixationDurationInSec:0.224
+841.6075 	EXP 	targetDistance:L
+841.6075 	EXP 	blankDurationInFrameCount:109
+841.6075 	EXP 	displacement:0.5000
+841.6084 	EXP 	startFixDisplay
+841.6333 	EXP 	startFixPeriod
+841.8540 	EXP 	startWaitForSaccade
+845.6424 	EXP 	Starting Trial Number 14
+845.6428 	EXP 	fixationDurationInSec:0.383
+845.6428 	EXP 	targetDistance:R
+845.6428 	EXP 	blankDurationInFrameCount:109
+845.6428 	EXP 	displacement:0.5000
+845.6470 	EXP 	startFixDisplay
+845.6511 	EXP 	startFixPeriod
+846.0300 	EXP 	startWaitForSaccade
+846.1508 	EXP 	targetPresented
+846.1591 	EXP 	blankDurationStart
+846.6128 	EXP 	maskStart
+847.1124 	EXP 	maskEnd
+847.9464 	DATA 	Keypress: right
+847.9495 	EXP 	Device response: <KeyPress from None: t=847.9451246261597, value=right, duration=None>
+848.0452 	EXP 	Device response: <KeyPress from None: t=847.9451246261597, value=right, duration=0.09586620330810547>
+848.0452 	EXP 	RightResponse
+848.0491 	EXP 	EndOfTrial
+848.0532 	EXP 	FeedbackPeriodStarted
+849.5552 	EXP 	Starting Trial Number 15
+849.5556 	EXP 	fixationDurationInSec:0.386
+849.5556 	EXP 	targetDistance:L
+849.5557 	EXP 	blankDurationInFrameCount:109
+849.5557 	EXP 	displacement:0.5000
+849.5606 	EXP 	startFixDisplay
+849.8144 	EXP 	startFixPeriod
+850.1976 	EXP 	startWaitForSaccade
+850.3890 	EXP 	targetPresented
+850.3974 	EXP 	blankDurationStart
+850.8511 	EXP 	maskStart
+851.3507 	EXP 	maskEnd
+852.0587 	EXP 	Device response: <KeyPress from None: t=852.0571115016937, value=left, duration=None>
+852.0603 	DATA 	Keypress: left
+852.1710 	EXP 	Device response: <KeyPress from None: t=852.0571115016937, value=left, duration=0.11190080642700195>
+852.1710 	EXP 	LeftResponse
+852.1751 	EXP 	EndOfTrial
+852.1792 	EXP 	FeedbackPeriodStarted
+853.6940 	EXP 	Starting Trial Number 16
+853.6944 	EXP 	fixationDurationInSec:0.308
+853.6944 	EXP 	targetDistance:R
+853.6944 	EXP 	blankDurationInFrameCount:108
+853.6944 	EXP 	displacement:0.5000
+853.6990 	EXP 	startFixDisplay
+853.9737 	EXP 	startFixPeriod
+854.2777 	EXP 	startWaitForSaccade
+855.6891 	EXP 	targetPresented
+855.6975 	EXP 	blankDurationStart
+856.1471 	EXP 	maskStart
+856.6509 	EXP 	maskEnd
+857.2104 	DATA 	Keypress: right
+857.2130 	EXP 	Device response: <KeyPress from None: t=857.2090938091278, value=right, duration=None>
+857.3377 	EXP 	Device response: <KeyPress from None: t=857.2090938091278, value=right, duration=0.127976655960083>
+857.3377 	EXP 	RightResponse
+857.3419 	EXP 	EndOfTrial
+857.3461 	EXP 	FeedbackPeriodStarted
+858.8731 	EXP 	Starting Trial Number 17
+858.8736 	EXP 	fixationDurationInSec:0.210
+858.8736 	EXP 	targetDistance:L
+858.8736 	EXP 	blankDurationInFrameCount:110
+858.8736 	EXP 	displacement:0.5000
+858.8783 	EXP 	startFixDisplay
+859.1197 	EXP 	startFixPeriod
+859.3279 	EXP 	startWaitForSaccade
+864.1491 	EXP 	targetPresented
+864.1575 	EXP 	blankDurationStart
+864.6155 	EXP 	maskStart
+865.1151 	EXP 	maskEnd
+866.4904 	DATA 	Keypress: left
+866.4932 	EXP 	Device response: <KeyPress from None: t=866.4891040325165, value=left, duration=None>
+866.6348 	EXP 	Device response: <KeyPress from None: t=866.4891040325165, value=left, duration=0.14394903182983398>
+866.6350 	EXP 	LeftResponse
+866.6389 	EXP 	EndOfTrial
+866.6429 	EXP 	FeedbackPeriodStarted
+868.1456 	EXP 	Starting Trial Number 18
+868.1460 	EXP 	fixationDurationInSec:0.269
+868.1460 	EXP 	targetDistance:R
+868.1460 	EXP 	blankDurationInFrameCount:108
+868.1460 	EXP 	displacement:0.5000
+868.1502 	EXP 	startFixDisplay
+868.1543 	EXP 	startFixPeriod
+868.4209 	EXP 	startWaitForSaccade
+868.9953 	EXP 	targetPresented
+869.0036 	EXP 	blankDurationStart
+869.4534 	EXP 	maskStart
+869.9530 	EXP 	maskEnd
+870.6663 	DATA 	Keypress: right
+870.6692 	EXP 	Device response: <KeyPress from None: t=870.6651191711426, value=right, duration=None>
+870.7940 	EXP 	Device response: <KeyPress from None: t=870.6651191711426, value=right, duration=0.12796235084533691>
+870.7941 	EXP 	RightResponse
+870.7981 	EXP 	EndOfTrial
+870.8022 	EXP 	FeedbackPeriodStarted
+872.3587 	EXP 	Starting Trial Number 19
+872.3591 	EXP 	fixationDurationInSec:0.397
+872.3591 	EXP 	targetDistance:R
+872.3591 	EXP 	blankDurationInFrameCount:107
+872.3591 	EXP 	displacement:0.5000
+872.3636 	EXP 	startFixDisplay
+872.3677 	EXP 	startFixPeriod
+872.7633 	EXP 	startWaitForSaccade
+876.7935 	EXP 	targetPresented
+876.8017 	EXP 	blankDurationStart
+877.2473 	EXP 	maskStart
+877.7469 	EXP 	maskEnd
+879.7578 	EXP 	EndOfTrial
+879.7618 	EXP 	FeedbackPeriodStarted
+879.8538 	DATA 	Keypress: right
+881.2894 	EXP 	Starting Trial Number 20
+881.2898 	EXP 	fixationDurationInSec:0.390
+881.2898 	EXP 	targetDistance:L
+881.2898 	EXP 	blankDurationInFrameCount:110
+881.2898 	EXP 	displacement:0.5000
+881.2941 	EXP 	startFixDisplay
+881.4690 	EXP 	startFixPeriod
+881.8562 	EXP 	startWaitForSaccade
+885.7995 	EXP 	Starting Trial Number 21
+885.7999 	EXP 	fixationDurationInSec:0.378
+885.7999 	EXP 	targetDistance:R
+885.7999 	EXP 	blankDurationInFrameCount:107
+885.7999 	EXP 	displacement:0.5000
+885.8031 	EXP 	startFixDisplay
+886.0113 	EXP 	startFixPeriod
+886.3860 	EXP 	startWaitForSaccade
+888.0597 	EXP 	targetPresented
+888.0679 	EXP 	blankDurationStart
+888.5135 	EXP 	maskStart
+889.0092 	EXP 	Device response: <KeyPress from None: t=879.8491945266724, value=right, duration=None>
+889.0092 	EXP 	Device response: <KeyPress from None: t=879.8491945266724, value=right, duration=0.12785816192626953>
+889.0173 	EXP 	maskEnd
+889.2892 	DATA 	Keypress: right
+889.2922 	EXP 	Device response: <KeyPress from None: t=889.2891116142273, value=right, duration=None>
+889.4046 	EXP 	Device response: <KeyPress from None: t=889.2891116142273, value=right, duration=0.11188054084777832>
+889.4048 	EXP 	RightResponse
+889.4086 	EXP 	EndOfTrial
+889.4127 	EXP 	FeedbackPeriodStarted
+890.9155 	EXP 	Starting Trial Number 22
+890.9159 	EXP 	fixationDurationInSec:0.323
+890.9159 	EXP 	targetDistance:R
+890.9159 	EXP 	blankDurationInFrameCount:107
+890.9159 	EXP 	displacement:0.5000
+890.9198 	EXP 	startFixDisplay
+891.1197 	EXP 	startFixPeriod
+891.4403 	EXP 	startWaitForSaccade
+895.0048 	EXP 	Starting Trial Number 23
+895.0052 	EXP 	fixationDurationInSec:0.313
+895.0053 	EXP 	targetDistance:R
+895.0053 	EXP 	blankDurationInFrameCount:107
+895.0053 	EXP 	displacement:0.5000
+895.0084 	EXP 	startFixDisplay
+895.0251 	EXP 	startFixPeriod
+895.3373 	EXP 	startWaitForSaccade
+900.3917 	EXP 	targetPresented
+900.4000 	EXP 	blankDurationStart
+900.8455 	EXP 	maskStart
+901.3451 	EXP 	maskEnd
+901.6907 	EXP 	Device response: <KeyPress from None: t=901.6890137195587, value=right, duration=None>
+901.6923 	DATA 	Keypress: right
+901.8365 	EXP 	Device response: <KeyPress from None: t=901.6890137195587, value=right, duration=0.1440107822418213>
+901.8367 	EXP 	RightResponse
+901.8405 	EXP 	EndOfTrial
+901.8446 	EXP 	FeedbackPeriodStarted
+903.3598 	EXP 	Starting Trial Number 24
+903.3602 	EXP 	fixationDurationInSec:0.277
+903.3603 	EXP 	targetDistance:L
+903.3603 	EXP 	blankDurationInFrameCount:109
+903.3603 	EXP 	displacement:0.5000
+903.3642 	EXP 	startFixDisplay
+903.3811 	EXP 	startFixPeriod
+903.6557 	EXP 	startWaitForSaccade
+903.7057 	EXP 	targetPresented
+907.2248 	EXP 	Starting Trial Number 25
+907.2252 	EXP 	fixationDurationInSec:0.204
+907.2252 	EXP 	targetDistance:L
+907.2252 	EXP 	blankDurationInFrameCount:109
+907.2252 	EXP 	displacement:0.5000
+907.2279 	EXP 	startFixDisplay
+907.2321 	EXP 	startFixPeriod
+907.4319 	EXP 	startWaitForSaccade
+907.9358 	EXP 	targetPresented
+907.9442 	EXP 	blankDurationStart
+908.3980 	EXP 	maskStart
+908.8974 	EXP 	maskEnd
+909.2265 	EXP 	Device response: <KeyPress from None: t=909.225133895874, value=left, duration=None>
+909.2280 	DATA 	Keypress: left
+909.3557 	EXP 	Device response: <KeyPress from None: t=909.225133895874, value=left, duration=0.12795591354370117>
+909.3558 	EXP 	LeftResponse
+909.3597 	EXP 	EndOfTrial
+909.3638 	EXP 	FeedbackPeriodStarted
+910.8912 	EXP 	Starting Trial Number 26
+910.8917 	EXP 	fixationDurationInSec:0.285
+910.8917 	EXP 	targetDistance:L
+910.8917 	EXP 	blankDurationInFrameCount:107
+910.8917 	EXP 	displacement:0.5000
+910.8959 	EXP 	startFixDisplay
+911.1208 	EXP 	startFixPeriod
+911.4039 	EXP 	startWaitForSaccade
+911.4705 	EXP 	targetPresented
+911.4788 	EXP 	blankDurationStart
+911.9243 	EXP 	maskStart
+912.4239 	EXP 	maskEnd
+912.7777 	EXP 	Device response: <KeyPress from None: t=912.7772459983826, value=left, duration=None>
+912.7790 	DATA 	Keypress: left
+912.9237 	EXP 	Device response: <KeyPress from None: t=912.7772459983826, value=left, duration=0.14379310607910156>
+912.9239 	EXP 	LeftResponse
+912.9277 	EXP 	EndOfTrial
+912.9318 	EXP 	FeedbackPeriodStarted
+914.4675 	EXP 	Starting Trial Number 27
+914.4679 	EXP 	fixationDurationInSec:0.270
+914.4679 	EXP 	targetDistance:L
+914.4679 	EXP 	blankDurationInFrameCount:108
+914.4679 	EXP 	displacement:0.5000
+914.4724 	EXP 	startFixDisplay
+914.4765 	EXP 	startFixPeriod
+914.7430 	EXP 	startWaitForSaccade
+920.1347 	EXP 	targetPresented
+920.1430 	EXP 	blankDurationStart
+920.5927 	EXP 	maskStart
+921.0921 	EXP 	maskEnd
+921.7061 	DATA 	Keypress: left
+921.7084 	EXP 	Device response: <KeyPress from None: t=921.7051272392273, value=left, duration=None>
+921.8334 	EXP 	Device response: <KeyPress from None: t=921.7051272392273, value=left, duration=0.12799644470214844>
+921.8336 	EXP 	LeftResponse
+921.8374 	EXP 	EndOfTrial
+921.8414 	EXP 	FeedbackPeriodStarted
+923.3524 	EXP 	Starting Trial Number 28
+923.3528 	EXP 	fixationDurationInSec:0.228
+923.3528 	EXP 	targetDistance:R
+923.3528 	EXP 	blankDurationInFrameCount:109
+923.3528 	EXP 	displacement:0.5000
+923.3571 	EXP 	startFixDisplay
+923.4695 	EXP 	startFixPeriod
+923.6945 	EXP 	startWaitForSaccade
+926.0424 	EXP 	targetPresented
+926.0508 	EXP 	blankDurationStart
+926.5046 	EXP 	maskStart
+927.0043 	EXP 	maskEnd
+927.3055 	DATA 	Keypress: right
+927.3081 	EXP 	Device response: <KeyPress from None: t=927.3051650524139, value=right, duration=None>
+927.4207 	EXP 	Device response: <KeyPress from None: t=927.3051650524139, value=right, duration=0.11191296577453613>
+927.4208 	EXP 	RightResponse
+927.4248 	EXP 	EndOfTrial
+927.4288 	EXP 	FeedbackPeriodStarted
+928.9437 	EXP 	Starting Trial Number 29
+928.9442 	EXP 	fixationDurationInSec:0.257
+928.9442 	EXP 	targetDistance:L
+928.9442 	EXP 	blankDurationInFrameCount:110
+928.9442 	EXP 	displacement:0.5000
+928.9486 	EXP 	startFixDisplay
+929.1151 	EXP 	startFixPeriod
+929.3692 	EXP 	startWaitForSaccade
+931.5882 	EXP 	targetPresented
+931.5964 	EXP 	blankDurationStart
+932.0545 	EXP 	maskStart
+932.5539 	EXP 	maskEnd
+932.9872 	EXP 	Device response: <KeyPress from None: t=932.9851531982422, value=left, duration=None>
+932.9885 	DATA 	Keypress: left
+933.1496 	EXP 	Device response: <KeyPress from None: t=932.9851531982422, value=left, duration=0.16005778312683105>
+933.1498 	EXP 	LeftResponse
+933.1536 	EXP 	EndOfTrial
+933.1577 	EXP 	FeedbackPeriodStarted
+934.6854 	EXP 	Starting Trial Number 30
+934.6858 	EXP 	fixationDurationInSec:0.206
+934.6858 	EXP 	targetDistance:R
+934.6858 	EXP 	blankDurationInFrameCount:107
+934.6858 	EXP 	displacement:0.5000
+934.6899 	EXP 	startFixDisplay
+934.9522 	EXP 	startFixPeriod
+935.1563 	EXP 	startWaitForSaccade
+938.7584 	EXP 	Starting Trial Number 31
+938.7588 	EXP 	fixationDurationInSec:0.273
+938.7588 	EXP 	targetDistance:R
+938.7588 	EXP 	blankDurationInFrameCount:107
+938.7588 	EXP 	displacement:0.5000
+938.7617 	EXP 	startFixDisplay
+938.7658 	EXP 	startFixPeriod
+939.0366 	EXP 	startWaitForSaccade
+940.1024 	EXP 	targetPresented
+940.1107 	EXP 	blankDurationStart
+940.5562 	EXP 	maskStart
+941.0557 	EXP 	maskEnd
+941.3862 	DATA 	Keypress: right
+941.3890 	EXP 	Device response: <KeyPress from None: t=941.3851292133331, value=right, duration=None>
+941.5304 	EXP 	Device response: <KeyPress from None: t=941.3851292133331, value=right, duration=0.1440143585205078>
+941.5306 	EXP 	RightResponse
+941.5346 	EXP 	EndOfTrial
+941.5386 	EXP 	FeedbackPeriodStarted
+943.0624 	EXP 	Starting Trial Number 32
+943.0627 	EXP 	fixationDurationInSec:0.246
+943.0628 	EXP 	targetDistance:R
+943.0628 	EXP 	blankDurationInFrameCount:108
+943.0628 	EXP 	displacement:0.5000
+943.0667 	EXP 	startFixDisplay
+943.0709 	EXP 	startFixPeriod
+943.3166 	EXP 	startWaitForSaccade
+943.3582 	EXP 	targetPresented
+943.3665 	EXP 	blankDurationStart
+943.8161 	EXP 	maskStart
+944.3158 	EXP 	maskEnd
+944.9070 	EXP 	Device response: <KeyPress from None: t=944.9051432609558, value=right, duration=None>
+944.9082 	DATA 	Keypress: right
+945.0361 	EXP 	Device response: <KeyPress from None: t=944.9051432609558, value=right, duration=0.1279911994934082>
+945.0361 	EXP 	RightResponse
+945.0402 	EXP 	EndOfTrial
+945.0442 	EXP 	FeedbackPeriodStarted
+946.5716 	EXP 	Starting Trial Number 33
+946.5720 	EXP 	fixationDurationInSec:0.310
+946.5720 	EXP 	targetDistance:L
+946.5720 	EXP 	blankDurationInFrameCount:106
+946.5720 	EXP 	displacement:0.5000
+946.5765 	EXP 	startFixDisplay
+946.5805 	EXP 	startFixPeriod
+946.8887 	EXP 	startWaitForSaccade
+948.3917 	EXP 	targetPresented
+948.4001 	EXP 	blankDurationStart
+948.8413 	EXP 	maskStart
+949.3408 	EXP 	maskEnd
+949.6575 	EXP 	Device response: <KeyPress from None: t=949.6571891307831, value=left, duration=None>
+949.6590 	DATA 	Keypress: left
+949.8031 	EXP 	Device response: <KeyPress from None: t=949.6571891307831, value=left, duration=0.14393067359924316>
+949.8033 	EXP 	LeftResponse
+949.8071 	EXP 	EndOfTrial
+949.8114 	EXP 	FeedbackPeriodStarted
+951.3138 	EXP 	Starting Trial Number 34
+951.3142 	EXP 	fixationDurationInSec:0.348
+951.3142 	EXP 	targetDistance:R
+951.3142 	EXP 	blankDurationInFrameCount:107
+951.3142 	EXP 	displacement:0.5000
+951.3186 	EXP 	startFixDisplay
+951.3561 	EXP 	startFixPeriod
+951.7017 	EXP 	startWaitForSaccade
+951.7098 	EXP 	targetPresented
+951.7182 	EXP 	blankDurationStart
+952.1639 	EXP 	maskStart
+952.6632 	EXP 	maskEnd
+953.1143 	DATA 	Keypress: right
+953.1174 	EXP 	Device response: <KeyPress from None: t=953.1131510734558, value=right, duration=None>
+953.2255 	EXP 	Device response: <KeyPress from None: t=953.1131510734558, value=right, duration=0.11207699775695801>
+953.2257 	EXP 	RightResponse
+953.2296 	EXP 	EndOfTrial
+953.2379 	EXP 	FeedbackPeriodStarted
+954.7946 	EXP 	Starting Trial Number 35
+954.7950 	EXP 	fixationDurationInSec:0.366
+954.7950 	EXP 	targetDistance:L
+954.7950 	EXP 	blankDurationInFrameCount:106
+954.7950 	EXP 	displacement:0.5000
+954.7992 	EXP 	startFixDisplay
+954.8366 	EXP 	startFixPeriod
+955.1989 	EXP 	startWaitForSaccade
+956.3397 	EXP 	targetPresented
+956.3480 	EXP 	blankDurationStart
+956.7893 	EXP 	maskStart
+957.2889 	EXP 	maskEnd
+957.6596 	EXP 	Device response: <KeyPress from None: t=957.657087802887, value=left, duration=None>
+957.6628 	DATA 	Keypress: left
+957.8052 	EXP 	Device response: <KeyPress from None: t=957.657087802887, value=left, duration=0.14406323432922363>
+957.8052 	EXP 	LeftResponse
+957.8092 	EXP 	EndOfTrial
+957.8134 	EXP 	FeedbackPeriodStarted
+959.4076 	EXP 	Starting Trial Number 36
+959.4080 	EXP 	fixationDurationInSec:0.280
+959.4080 	EXP 	targetDistance:L
+959.4080 	EXP 	blankDurationInFrameCount:105
+959.4080 	EXP 	displacement:0.5000
+959.4122 	EXP 	startFixDisplay
+959.6329 	EXP 	startFixPeriod
+959.9119 	EXP 	startWaitForSaccade
+965.4214 	EXP 	Starting Trial Number 37
+965.4218 	EXP 	fixationDurationInSec:0.321
+965.4218 	EXP 	targetDistance:L
+965.4218 	EXP 	blankDurationInFrameCount:105
+965.4218 	EXP 	displacement:0.5000
+965.4241 	EXP 	startFixDisplay
+965.4283 	EXP 	startFixPeriod
+965.7490 	EXP 	startWaitForSaccade
+966.1237 	EXP 	targetPresented
+966.1320 	EXP 	blankDurationStart
+966.5692 	EXP 	maskStart
+967.0686 	EXP 	maskEnd
+967.3703 	DATA 	Keypress: left
+967.3728 	EXP 	Device response: <KeyPress from None: t=967.3691258430481, value=left, duration=None>
+967.5310 	EXP 	Device response: <KeyPress from None: t=967.3691258430481, value=left, duration=0.15995073318481445>
+967.5311 	EXP 	LeftResponse
+967.5351 	EXP 	EndOfTrial
+967.5391 	EXP 	FeedbackPeriodStarted
+969.0458 	EXP 	Starting Trial Number 38
+969.0462 	EXP 	fixationDurationInSec:0.320
+969.0462 	EXP 	targetDistance:L
+969.0462 	EXP 	blankDurationInFrameCount:106
+969.0462 	EXP 	displacement:0.5000
+969.0506 	EXP 	startFixDisplay
+969.2920 	EXP 	startFixPeriod
+969.6086 	EXP 	startWaitForSaccade
+969.8415 	EXP 	targetPresented
+969.8499 	EXP 	blankDurationStart
+970.2914 	EXP 	maskStart
+970.7910 	EXP 	maskEnd
+971.1781 	EXP 	Device response: <KeyPress from None: t=971.177179813385, value=left, duration=None>
+971.1793 	DATA 	Keypress: left
+971.3071 	EXP 	Device response: <KeyPress from None: t=971.177179813385, value=left, duration=0.12797331809997559>
+971.3071 	EXP 	LeftResponse
+971.3113 	EXP 	EndOfTrial
+971.3153 	EXP 	FeedbackPeriodStarted
+972.8185 	EXP 	Starting Trial Number 39
+972.8189 	EXP 	fixationDurationInSec:0.245
+972.8189 	EXP 	targetDistance:R
+972.8189 	EXP 	blankDurationInFrameCount:106
+972.8189 	EXP 	displacement:0.5000
+972.8225 	EXP 	startFixDisplay
+972.8435 	EXP 	startFixPeriod
+973.0850 	EXP 	startWaitForSaccade
+983.8973 	DATA 	Keypress: l
+983.8975 	EXP 	Removed global key event: 'quitKey'.
+1041.1293 	DATA 	Keypress: return
+1041.6438 	EXP 	Device response: <KeyPress from None: t=983.8972153663635, value=l, duration=None>
+1041.6439 	EXP 	Device response: <KeyPress from None: t=983.8972153663635, value=l, duration=0.15997529029846191>
+1041.6439 	EXP 	Device response: <KeyPress from None: t=1041.1292562484741, value=return, duration=None>
+1041.6439 	EXP 	Device response: <KeyPress from None: t=1041.1292562484741, value=return, duration=0.09601855278015137>
+1097.9777 	EXP 	Device response: <KeyPress from None: t=1097.9773545265198, value=q, duration=None>
+1098.0944 	EXP 	Device response: <KeyPress from None: t=1098.0893716812134, value=w, duration=None>
+1098.1270 	EXP 	Device response: <KeyPress from None: t=1098.1213381290436, value=e, duration=None>
+1098.2110 	EXP 	Device response: <KeyPress from None: t=1098.2012782096863, value=r, duration=None>
+1098.2436 	EXP 	Device response: <KeyPress from None: t=1097.9773545265198, value=q, duration=0.25598907470703125>
+1098.2739 	EXP 	Device response: <KeyPress from None: t=1098.0893716812134, value=w, duration=0.17595458030700684>
+1098.3143 	EXP 	Device response: <KeyPress from None: t=1098.1213381290436, value=e, duration=0.1920008659362793>
+1098.3458 	EXP 	Device response: <KeyPress from None: t=1098.2012782096863, value=r, duration=0.14406776428222656>
+1099.2758 	EXP 	Device response: <KeyPress from None: t=1099.273274898529, value=j, duration=None>
+1099.3702 	EXP 	Device response: <KeyPress from None: t=1099.3693392276764, value=k, duration=None>
+1099.4434 	EXP 	Device response: <KeyPress from None: t=1099.273274898529, value=j, duration=0.16007614135742188>
+1099.5674 	EXP 	Device response: <KeyPress from None: t=1099.3693392276764, value=k, duration=0.19218683242797852>
+1099.5675 	EXP 	Device response: <KeyPress from None: t=1099.561604976654, value=l, duration=None>
+1099.6653 	EXP 	Device response: <KeyPress from None: t=1099.561604976654, value=l, duration=0.09574413299560547>
+1102.9240 	EXP 	Device response: <KeyPress from None: t=1102.9213607311249, value=n, duration=None>
+1103.0573 	EXP 	Device response: <KeyPress from None: t=1102.9213607311249, value=n, duration=0.12799954414367676>
+1103.0987 	EXP 	Device response: <KeyPress from None: t=1103.097363948822, value=x, duration=None>
+1103.2625 	EXP 	Device response: <KeyPress from None: t=1103.097363948822, value=x, duration=0.15996742248535156>
+1104.0822 	EXP 	Device response: <KeyPress from None: t=1104.0733759403229, value=x, duration=None>
+1104.2569 	EXP 	Device response: <KeyPress from None: t=1104.0733759403229, value=x, duration=0.17598581314086914>
+1105.1776 	EXP 	Device response: <KeyPress from None: t=1105.1773626804352, value=k, duration=None>
+1105.3129 	EXP 	Device response: <KeyPress from None: t=1105.1773626804352, value=k, duration=0.12799906730651855>
+1105.8249 	EXP 	Device response: <KeyPress from None: t=1105.8173565864563, value=j, duration=None>
+1105.9693 	EXP 	Device response: <KeyPress from None: t=1105.8173565864563, value=j, duration=0.14400959014892578>
+1106.0819 	EXP 	Device response: <KeyPress from None: t=1106.073353767395, value=l, duration=None>
+1106.2418 	EXP 	Device response: <KeyPress from None: t=1106.073353767395, value=l, duration=0.16001582145690918>
+1106.5733 	EXP 	Device response: <KeyPress from None: t=1106.5693619251251, value=r, duration=None>
+1106.6869 	EXP 	Device response: <KeyPress from None: t=1106.5693619251251, value=r, duration=0.11198973655700684>
+1106.8099 	EXP 	Device response: <KeyPress from None: t=1106.809376001358, value=e, duration=None>
+1106.8100 	EXP 	Device response: <KeyPress from None: t=1106.8094589710236, value=r, duration=None>
+1106.8795 	EXP 	Device response: <KeyPress from None: t=1106.8094589710236, value=r, duration=0.0639030933380127>
+1106.8902 	EXP 	Device response: <KeyPress from None: t=1106.809376001358, value=e, duration=0.0799710750579834>
+1107.0349 	EXP 	Device response: <KeyPress from None: t=1107.0333631038666, value=w, duration=None>
+1107.1297 	EXP 	Device response: <KeyPress from None: t=1107.0333631038666, value=w, duration=0.09600281715393066>
+1107.2494 	EXP 	Device response: <KeyPress from None: t=1107.2414021492004, value=q, duration=None>
+1107.3939 	EXP 	Device response: <KeyPress from None: t=1107.2414021492004, value=q, duration=0.14394068717956543>
+1223.9620 	EXP 	Device response: <KeyPress from None: t=1223.9614551067352, value=x, duration=None>
+1224.2584 	EXP 	Device response: <KeyPress from None: t=1223.9614551067352, value=x, duration=0.28789663314819336>
+1224.9880 	EXP 	Device response: <KeyPress from None: t=1224.985372543335, value=x, duration=None>
+1225.1029 	EXP 	Device response: <KeyPress from None: t=1224.985372543335, value=x, duration=0.11199474334716797>
+1225.1642 	EXP 	Device response: <KeyPress from None: t=1225.1613738536835, value=x, duration=None>
+1225.2778 	EXP 	Device response: <KeyPress from None: t=1225.1613738536835, value=x, duration=0.11199617385864258>
+1225.3289 	EXP 	Device response: <KeyPress from None: t=1225.321373462677, value=x, duration=None>
+1225.4540 	EXP 	Device response: <KeyPress from None: t=1225.321373462677, value=x, duration=0.1279895305633545>
+1225.5154 	EXP 	Device response: <KeyPress from None: t=1225.51336312294, value=x, duration=None>
+1225.6129 	EXP 	Device response: <KeyPress from None: t=1225.51336312294, value=x, duration=0.0959622859954834>
+1228.6563 	EXP 	Device response: <KeyPress from None: t=1228.649373292923, value=return, duration=None>
+1228.7188 	EXP 	Device response: <KeyPress from None: t=1228.649373292923, value=return, duration=0.06398677825927734>
+1228.7821 	DATA 	Keypress: q
+1228.7822 	DATA 	Keypress: w
+1228.7822 	DATA 	Keypress: e
+1228.7822 	DATA 	Keypress: r
+1228.7823 	DATA 	Keypress: j
+1228.7823 	DATA 	Keypress: k
+1228.7824 	DATA 	Keypress: l
+1228.7824 	DATA 	Keypress: n
+1228.7825 	DATA 	Keypress: x
+1228.7825 	DATA 	Keypress: x
+1228.7826 	DATA 	Keypress: k
+1228.7826 	DATA 	Keypress: j
+1228.7826 	DATA 	Keypress: l
+1228.7827 	DATA 	Keypress: r
+1228.7827 	DATA 	Keypress: e
+1228.7827 	DATA 	Keypress: r
+1228.7828 	DATA 	Keypress: w
+1228.7828 	DATA 	Keypress: q
+1228.7834 	DATA 	Keypress: x
+1228.7834 	DATA 	Keypress: x
+1228.7835 	DATA 	Keypress: x
+1228.7835 	DATA 	Keypress: x
+1228.7835 	DATA 	Keypress: x
+1228.7836 	DATA 	Keypress: return
+1228.7959 	EXP 	Device response: <KeyPress from None: t=1228.7933232784271, value=return, duration=None>
+1228.8152 	DATA 	Keypress: return
+1228.8935 	EXP 	Device response: <KeyPress from None: t=1228.7933232784271, value=return, duration=0.09603691101074219>
+1231.9161 	EXP 	Device response: <KeyPress from None: t=1231.913480758667, value=return, duration=None>
+1232.0364 	DATA 	Keypress: return
+1232.1553 	EXP 	Device response: <KeyPress from None: t=1231.913480758667, value=return, duration=0.2399272918701172>
+1270.8496 	EXP 	Device response: <KeyPress from None: t=1270.8414478302002, value=return, duration=None>
+1270.8531 	DATA 	Keypress: return
+1270.9697 	EXP 	Device response: <KeyPress from None: t=1270.8414478302002, value=return, duration=0.12794709205627441>
+1272.4031 	EXP 	Device response: <KeyPress from None: t=1272.3934013843536, value=return, duration=None>
+1272.4903 	DATA 	Keypress: return
+1272.5055 	EXP 	Device response: <KeyPress from None: t=1272.3934013843536, value=return, duration=0.11189746856689453>
+1275.6518 	EXP 	Device response: <KeyPress from None: t=1275.6412625312805, value=return, duration=None>
+1275.6541 	DATA 	Keypress: return
+1275.7445 	EXP 	Device response: <KeyPress from None: t=1275.6412625312805, value=return, duration=0.09622764587402344>
+1276.6579 	EXP 	Device response: <KeyPress from None: t=1276.6494436264038, value=return, duration=None>
+1276.7297 	EXP 	Device response: <KeyPress from None: t=1276.6494436264038, value=return, duration=0.0799245834350586>
+1276.7462 	DATA 	Keypress: return
+1277.2501 	EXP 	Device response: <KeyPress from None: t=1277.241431236267, value=return, duration=None>
+1277.2738 	DATA 	Keypress: return
+1277.3240 	EXP 	Device response: <KeyPress from None: t=1277.241431236267, value=return, duration=0.07999014854431152>
+1283.4734 	EXP 	Device response: <KeyPress from None: t=1283.4655663967133, value=return, duration=None>
+1283.5352 	EXP 	Device response: <KeyPress from None: t=1283.4655663967133, value=return, duration=0.06387877464294434>
+1283.5634 	DATA 	Keypress: return
+1284.4343 	EXP 	Device response: <KeyPress from None: t=1284.4254305362701, value=x, duration=None>
+1284.4912 	DATA 	Keypress: x
+1284.5749 	EXP 	Device response: <KeyPress from None: t=1284.4254305362701, value=x, duration=0.1440117359161377>
+1285.6930 	EXP 	Device response: <KeyPress from None: t=1285.6895172595978, value=return, duration=None>
+1285.7197 	DATA 	Keypress: return
+1285.7756 	EXP 	Device response: <KeyPress from None: t=1285.6895172595978, value=return, duration=0.07994651794433594>
+1287.0192 	EXP 	Device response: <KeyPress from None: t=1287.0174643993378, value=x, duration=None>
+1287.1531 	EXP 	Device response: <KeyPress from None: t=1287.0174643993378, value=x, duration=0.12799477577209473>
+1287.3274 	EXP 	Device response: <KeyPress from None: t=1287.3214483261108, value=x, duration=None>
+1287.4721 	EXP 	Device response: <KeyPress from None: t=1287.3214483261108, value=x, duration=0.14400124549865723>
+1287.5335 	EXP 	Device response: <KeyPress from None: t=1287.5294525623322, value=x, duration=None>
+1287.6781 	EXP 	Device response: <KeyPress from None: t=1287.5294525623322, value=x, duration=0.1440112590789795>
+1310.0216 	EXP 	Device response: <KeyPress from None: t=1310.0101034641266, value=x, duration=None>
+1310.2364 	EXP 	Device response: <KeyPress from None: t=1310.0101034641266, value=x, duration=0.2233743667602539>
+1312.4908 	EXP 	Device response: <KeyPress from None: t=1312.4894835948944, value=c, duration=None>
+1312.5000 	DATA 	Keypress: x
+1312.5002 	DATA 	Keypress: x
+1312.5006 	DATA 	Keypress: x
+1312.5007 	DATA 	Keypress: x
+1312.5007 	DATA 	Keypress: c
+1312.6702 	EXP 	Device response: <KeyPress from None: t=1312.4894835948944, value=c, duration=0.17599129676818848>
+1326.0666 	EXP 	Device response: <KeyPress from None: t=1326.0574827194214, value=return, duration=None>
+1326.0808 	DATA 	Keypress: return
+1326.2055 	EXP 	Device response: <KeyPress from None: t=1326.0574827194214, value=return, duration=0.14400124549865723>
+1353.6423 	EXP 	window1: units = 'norm'
+1353.6424 	EXP 	window1: units = 'pix'
+1362.5282 	EXP 	Device response: <KeyPress from None: t=1362.5215547084808, value=escape, duration=None>
+1362.6509 	EXP 	Device response: <KeyPress from None: t=1362.5215547084808, value=escape, duration=0.12797927856445312>
+1365.0701 	EXP 	Device response: <KeyPress from None: t=1365.065479516983, value=escape, duration=None>
+1365.0715 	EXP 	window1: units = 'norm'
+1365.0715 	EXP 	window1: units = 'pix'
+1365.0736 	DATA 	Keypress: escape
+1365.0738 	DATA 	Keypress: escape
+1365.0792 	EXP 	Added new global key event: quitKey
+1365.1202 	EXP 	startNoiseCharacterization
+1371.8837 	DATA 	Keypress: space
+1376.9489 	EXP 	medianPos:-0.5461 deg
+1376.9489 	EXP 	MADPos:0.5908 deg
+1376.9489 	EXP 	medianVelocity:0.0000 deg/sec
+1376.9489 	EXP 	MADvelocity:3.8795 deg/sec
+1397.8494 	DATA 	Keypress: x
+1398.3133 	DATA 	Keypress: x
+1399.2093 	DATA 	Keypress: return
+1401.7694 	DATA 	Keypress: 1
+1401.7750 	EXP 	startNoiseCharacterization
+1406.2174 	DATA 	Keypress: space
+1411.2843 	EXP 	medianPos:-0.6595 deg
+1411.2844 	EXP 	MADPos:0.9668 deg
+1411.2844 	EXP 	medianVelocity:0.0000 deg/sec
+1411.2844 	EXP 	MADvelocity:4.4759 deg/sec
+1423.8975 	DATA 	Keypress: 2
+1423.8975 	EXP 	Removed global key event: 'quitKey'.
+1435.1294 	DATA 	Keypress: x
+1435.1295 	EXP 	Added new global key event: quitKey
+1435.1364 	EXP 	startNoiseCharacterization
+1436.5534 	DATA 	Keypress: x
+1437.4974 	DATA 	Keypress: x
+1441.6192 	EXP 	medianPos:-3.4366 deg
+1441.6192 	EXP 	MADPos:13.1397 deg
+1441.6192 	EXP 	medianVelocity:0.0000 deg/sec
+1441.6192 	EXP 	MADvelocity:0.2983 deg/sec
+1469.0815 	DATA 	Keypress: 1
+1469.0890 	EXP 	startNoiseCharacterization
+1471.1934 	DATA 	Keypress: c
+1476.2589 	EXP 	medianPos:-1.2263 deg
+1476.2589 	EXP 	MADPos:1.2263 deg
+1476.2589 	EXP 	medianVelocity:0.0000 deg/sec
+1476.2589 	EXP 	MADvelocity:9.8424 deg/sec
+1483.0494 	DATA 	Keypress: space
+1484.9694 	DATA 	Keypress: space
+1484.9770 	EXP 	Starting Trial Number 40
+1484.9776 	EXP 	fixationDurationInSec:0.204
+1484.9776 	EXP 	targetDistance:L
+1484.9776 	EXP 	blankDurationInFrameCount:104
+1484.9776 	EXP 	displacement:0.5000
+1484.9806 	EXP 	startFixDisplay
+1484.9974 	EXP 	startFixPeriod
+1485.1973 	EXP 	startWaitForSaccade
+1485.4222 	EXP 	targetPresented
+1485.4305 	EXP 	blankDurationStart
+1485.8635 	EXP 	maskStart
+1486.3596 	EXP 	Device response: <KeyPress from None: t=1371.8817245960236, value=space, duration=None>
+1486.3596 	EXP 	Device response: <KeyPress from None: t=1371.8817245960236, value=space, duration=0.12760591506958008>
+1486.3596 	EXP 	Device response: <KeyPress from None: t=1397.8494174480438, value=x, duration=None>
+1486.3596 	EXP 	Device response: <KeyPress from None: t=1397.8494174480438, value=x, duration=0.17591238021850586>
+1486.3597 	EXP 	Device response: <KeyPress from None: t=1398.3133189678192, value=x, duration=None>
+1486.3597 	EXP 	Device response: <KeyPress from None: t=1398.3133189678192, value=x, duration=0.11200737953186035>
+1486.3597 	EXP 	Device response: <KeyPress from None: t=1399.209344625473, value=return, duration=None>
+1486.3597 	EXP 	Device response: <KeyPress from None: t=1399.209344625473, value=return, duration=0.11198115348815918>
+1486.3597 	EXP 	Device response: <KeyPress from None: t=1401.7693483829498, value=1, duration=None>
+1486.3597 	EXP 	Device response: <KeyPress from None: t=1401.7693483829498, value=1, duration=0.17597365379333496>
+1486.3597 	EXP 	Device response: <KeyPress from None: t=1406.2173483371735, value=space, duration=None>
+1486.3598 	EXP 	Device response: <KeyPress from None: t=1406.2173483371735, value=space, duration=0.19200372695922852>
+1486.3598 	EXP 	Device response: <KeyPress from None: t=1423.8974661827087, value=2, duration=None>
+1486.3598 	EXP 	Device response: <KeyPress from None: t=1423.8974661827087, value=2, duration=0.15990972518920898>
+1486.3598 	EXP 	Device response: <KeyPress from None: t=1435.1294107437134, value=x, duration=None>
+1486.3598 	EXP 	Device response: <KeyPress from None: t=1435.1294107437134, value=x, duration=0.25594043731689453>
+1486.3598 	EXP 	Device response: <KeyPress from None: t=1436.5533788204193, value=x, duration=None>
+1486.3598 	EXP 	Device response: <KeyPress from None: t=1436.5533788204193, value=x, duration=0.1599721908569336>
+1486.3599 	EXP 	Device response: <KeyPress from None: t=1437.4973776340485, value=x, duration=None>
+1486.3599 	EXP 	Device response: <KeyPress from None: t=1437.4973776340485, value=x, duration=0.12795281410217285>
+1486.3599 	EXP 	Device response: <KeyPress from None: t=1469.0814983844757, value=1, duration=None>
+1486.3599 	EXP 	Device response: <KeyPress from None: t=1469.0814983844757, value=1, duration=0.14387297630310059>
+1486.3599 	EXP 	Device response: <KeyPress from None: t=1471.1933703422546, value=c, duration=None>
+1486.3599 	EXP 	Device response: <KeyPress from None: t=1471.1933703422546, value=c, duration=0.12796783447265625>
+1486.3600 	EXP 	Device response: <KeyPress from None: t=1483.0494003295898, value=space, duration=None>
+1486.3600 	EXP 	Device response: <KeyPress from None: t=1483.0494003295898, value=space, duration=0.1920027732849121>
+1486.3600 	EXP 	Device response: <KeyPress from None: t=1484.969326019287, value=space, duration=None>
+1486.3600 	EXP 	Device response: <KeyPress from None: t=1484.969326019287, value=space, duration=0.12801718711853027>
+1486.3601 	EXP 	Device response: <KeyPress from None: t=1365.065479516983, value=escape, duration=0.27184343338012695>
+1486.3629 	EXP 	maskEnd
+1487.0499 	EXP 	Device response: <KeyPress from None: t=1487.0493416786194, value=left, duration=None>
+1487.0511 	DATA 	Keypress: left
+1487.1790 	EXP 	Device response: <KeyPress from None: t=1487.0493416786194, value=left, duration=0.12798857688903809>
+1487.1792 	EXP 	LeftResponse
+1487.1831 	EXP 	EndOfTrial
+1487.1873 	EXP 	FeedbackPeriodStarted
+1488.7966 	EXP 	Starting Trial Number 41
+1488.7970 	EXP 	fixationDurationInSec:0.233
+1488.7970 	EXP 	targetDistance:L
+1488.7971 	EXP 	blankDurationInFrameCount:109
+1488.7971 	EXP 	displacement:0.5000
+1488.7985 	EXP 	startFixDisplay
+1488.8028 	EXP 	startFixPeriod
+1489.0319 	EXP 	startWaitForSaccade
+1496.9062 	EXP 	Starting Trial Number 42
+1496.9066 	EXP 	fixationDurationInSec:0.273
+1496.9066 	EXP 	targetDistance:R
+1496.9066 	EXP 	blankDurationInFrameCount:106
+1496.9066 	EXP 	displacement:0.5000
+1496.9089 	EXP 	startFixDisplay
+1496.9131 	EXP 	startFixPeriod
+1497.1838 	EXP 	startWaitForSaccade
+1497.7834 	EXP 	targetPresented
+1497.7916 	EXP 	blankDurationStart
+1498.2330 	EXP 	maskStart
+1498.7325 	EXP 	maskEnd
+1498.9074 	EXP 	Device response: <KeyPress from None: t=1498.9053981304169, value=right, duration=None>
+1498.9087 	DATA 	Keypress: right
+1498.9866 	EXP 	Device response: <KeyPress from None: t=1498.9053981304169, value=right, duration=0.07993412017822266>
+1498.9867 	EXP 	RightResponse
+1498.9906 	EXP 	EndOfTrial
+1498.9948 	EXP 	FeedbackPeriodStarted
+1500.5079 	EXP 	Starting Trial Number 43
+1500.5083 	EXP 	fixationDurationInSec:0.297
+1500.5083 	EXP 	targetDistance:L
+1500.5083 	EXP 	blankDurationInFrameCount:105
+1500.5084 	EXP 	displacement:0.5000
+1500.5101 	EXP 	startFixDisplay
+1500.9809 	EXP 	startFixPeriod
+1501.2765 	EXP 	startWaitForSaccade
+1506.6805 	EXP 	targetPresented
+1506.6889 	EXP 	blankDurationStart
+1507.1261 	EXP 	maskStart
+1507.6255 	EXP 	maskEnd
+1508.0920 	EXP 	Device response: <KeyPress from None: t=1508.0893881320953, value=left, duration=None>
+1508.0936 	DATA 	Keypress: left
+1508.2211 	EXP 	Device response: <KeyPress from None: t=1508.0893881320953, value=left, duration=0.12793993949890137>
+1508.2211 	EXP 	LeftResponse
+1508.2251 	EXP 	EndOfTrial
+1508.2291 	EXP 	FeedbackPeriodStarted
+1509.7947 	EXP 	Starting Trial Number 44
+1509.7951 	EXP 	fixationDurationInSec:0.392
+1509.7951 	EXP 	targetDistance:L
+1509.7951 	EXP 	blankDurationInFrameCount:109
+1509.7951 	EXP 	displacement:0.5000
+1509.7989 	EXP 	startFixDisplay
+1509.8029 	EXP 	startFixPeriod
+1510.1945 	EXP 	startWaitForSaccade
+1513.7140 	EXP 	Starting Trial Number 45
+1513.7144 	EXP 	fixationDurationInSec:0.307
+1513.7144 	EXP 	targetDistance:R
+1513.7144 	EXP 	blankDurationInFrameCount:105
+1513.7144 	EXP 	displacement:0.5000
+1513.7166 	EXP 	startFixDisplay
+1513.7707 	EXP 	startFixPeriod
+1514.0747 	EXP 	startWaitForSaccade
+1521.9987 	EXP 	Starting Trial Number 46
+1521.9991 	EXP 	fixationDurationInSec:0.218
+1521.9991 	EXP 	targetDistance:L
+1521.9991 	EXP 	blankDurationInFrameCount:109
+1521.9991 	EXP 	displacement:0.5000
+1522.0018 	EXP 	startFixDisplay
+1522.0058 	EXP 	startFixPeriod
+1522.2225 	EXP 	startWaitForSaccade
+1522.3725 	EXP 	targetPresented
+1522.3808 	EXP 	blankDurationStart
+1522.8345 	EXP 	maskStart
+1523.3342 	EXP 	maskEnd
+1523.8336 	EXP 	Device response: <KeyPress from None: t=1523.8334474563599, value=left, duration=None>
+1523.8349 	DATA 	Keypress: left
+1523.9627 	EXP 	Device response: <KeyPress from None: t=1523.8334474563599, value=left, duration=0.12796926498413086>
+1523.9628 	EXP 	LeftResponse
+1523.9669 	EXP 	EndOfTrial
+1523.9710 	EXP 	FeedbackPeriodStarted
+1525.4911 	EXP 	Starting Trial Number 47
+1525.4915 	EXP 	fixationDurationInSec:0.370
+1525.4915 	EXP 	targetDistance:L
+1525.4915 	EXP 	blankDurationInFrameCount:105
+1525.4915 	EXP 	displacement:0.5000
+1525.4949 	EXP 	startFixDisplay
+1525.4991 	EXP 	startFixPeriod
+1525.8656 	EXP 	startWaitForSaccade
+1530.8698 	EXP 	targetPresented
+1530.8782 	EXP 	blankDurationStart
+1531.3154 	EXP 	maskStart
+1531.8151 	EXP 	maskEnd
+1532.2827 	DATA 	Keypress: left
+1532.2855 	EXP 	Device response: <KeyPress from None: t=1532.2813954353333, value=left, duration=None>
+1532.4104 	EXP 	Device response: <KeyPress from None: t=1532.2813954353333, value=left, duration=0.1279609203338623>
+1532.4106 	EXP 	LeftResponse
+1532.4145 	EXP 	EndOfTrial
+1532.4187 	EXP 	FeedbackPeriodStarted
+1533.9478 	EXP 	Starting Trial Number 48
+1533.9482 	EXP 	fixationDurationInSec:0.335
+1533.9482 	EXP 	targetDistance:R
+1533.9482 	EXP 	blankDurationInFrameCount:105
+1533.9482 	EXP 	displacement:0.5000
+1533.9507 	EXP 	startFixDisplay
+1533.9550 	EXP 	startFixPeriod
+1534.2882 	EXP 	startWaitForSaccade
+1539.3425 	EXP 	targetPresented
+1539.3509 	EXP 	blankDurationStart
+1539.7881 	EXP 	maskStart
+1540.2875 	EXP 	maskEnd
+1540.7623 	EXP 	Device response: <KeyPress from None: t=1540.7614285945892, value=right, duration=None>
+1540.7637 	DATA 	Keypress: right
+1540.8914 	EXP 	Device response: <KeyPress from None: t=1540.7614285945892, value=right, duration=0.12780141830444336>
+1540.8915 	EXP 	RightResponse
+1540.8954 	EXP 	EndOfTrial
+1540.8994 	EXP 	FeedbackPeriodStarted
+1542.4130 	EXP 	Starting Trial Number 49
+1542.4134 	EXP 	fixationDurationInSec:0.256
+1542.4134 	EXP 	targetDistance:L
+1542.4134 	EXP 	blankDurationInFrameCount:105
+1542.4134 	EXP 	displacement:0.5000
+1542.4149 	EXP 	startFixDisplay
+1542.4192 	EXP 	startFixPeriod
+1542.6732 	EXP 	startWaitForSaccade
+1543.4934 	EXP 	targetPresented
+1543.5018 	EXP 	blankDurationStart
+1543.9390 	EXP 	maskStart
+1544.4385 	EXP 	maskEnd
+1544.7774 	DATA 	Keypress: left
+1544.7800 	EXP 	Device response: <KeyPress from None: t=1544.7773399353027, value=left, duration=None>
+1544.8924 	EXP 	Device response: <KeyPress from None: t=1544.7773399353027, value=left, duration=0.11194491386413574>
+1544.8926 	EXP 	LeftResponse
+1544.8964 	EXP 	EndOfTrial
+1544.9005 	EXP 	FeedbackPeriodStarted
+1546.4819 	EXP 	Starting Trial Number 50
+1546.4824 	EXP 	fixationDurationInSec:0.363
+1546.4825 	EXP 	targetDistance:R
+1546.4825 	EXP 	blankDurationInFrameCount:105
+1546.4825 	EXP 	displacement:0.5000
+1546.4867 	EXP 	startFixDisplay
+1546.4910 	EXP 	startFixPeriod
+1546.8534 	EXP 	startWaitForSaccade
+1549.3970 	EXP 	targetPresented
+1549.4054 	EXP 	blankDurationStart
+1549.8427 	EXP 	maskStart
+1550.3423 	EXP 	maskEnd
+1551.0184 	DATA 	Keypress: right
+1551.0209 	EXP 	Device response: <KeyPress from None: t=1551.0173485279083, value=right, duration=None>
+1551.1333 	EXP 	Device response: <KeyPress from None: t=1551.0173485279083, value=right, duration=0.11192107200622559>
+1551.1334 	EXP 	RightResponse
+1551.1374 	EXP 	EndOfTrial
+1551.1414 	EXP 	FeedbackPeriodStarted
+1552.6842 	EXP 	Starting Trial Number 51
+1552.6847 	EXP 	fixationDurationInSec:0.376
+1552.6847 	EXP 	targetDistance:L
+1552.6848 	EXP 	blankDurationInFrameCount:105
+1552.6848 	EXP 	displacement:0.5000
+1552.6861 	EXP 	startFixDisplay
+1552.6904 	EXP 	startFixPeriod
+1553.0651 	EXP 	startWaitForSaccade
+1553.2733 	EXP 	targetPresented
+1553.2816 	EXP 	blankDurationStart
+1553.7188 	EXP 	maskStart
+1554.2184 	EXP 	maskEnd
+1554.7471 	EXP 	Device response: <KeyPress from None: t=1554.7453472614288, value=left, duration=None>
+1554.7484 	DATA 	Keypress: left
+1554.8596 	EXP 	Device response: <KeyPress from None: t=1554.7453472614288, value=left, duration=0.11189079284667969>
+1554.8598 	EXP 	LeftResponse
+1554.8636 	EXP 	EndOfTrial
+1554.8678 	EXP 	FeedbackPeriodStarted
+1556.4588 	EXP 	Starting Trial Number 52
+1556.4592 	EXP 	fixationDurationInSec:0.247
+1556.4592 	EXP 	targetDistance:L
+1556.4592 	EXP 	blankDurationInFrameCount:104
+1556.4592 	EXP 	displacement:0.5000
+1556.4624 	EXP 	startFixDisplay
+1556.4665 	EXP 	startFixPeriod
+1556.7122 	EXP 	startWaitForSaccade
+1557.3825 	EXP 	targetPresented
+1557.3908 	EXP 	blankDurationStart
+1557.8239 	EXP 	maskStart
+1558.3234 	EXP 	maskEnd
+1558.7793 	DATA 	Keypress: left
+1558.7815 	EXP 	Device response: <KeyPress from None: t=1558.7774271965027, value=left, duration=None>
+1558.9063 	EXP 	Device response: <KeyPress from None: t=1558.7774271965027, value=left, duration=0.12795758247375488>
+1558.9064 	EXP 	LeftResponse
+1558.9105 	EXP 	EndOfTrial
+1558.9146 	EXP 	FeedbackPeriodStarted
+1560.4346 	EXP 	Starting Trial Number 53
+1560.4350 	EXP 	fixationDurationInSec:0.398
+1560.4350 	EXP 	targetDistance:R
+1560.4350 	EXP 	blankDurationInFrameCount:104
+1560.4351 	EXP 	displacement:0.5000
+1560.4384 	EXP 	startFixDisplay
+1560.4427 	EXP 	startFixPeriod
+1560.8381 	EXP 	startWaitForSaccade
+1561.2710 	EXP 	targetPresented
+1561.2794 	EXP 	blankDurationStart
+1561.7126 	EXP 	maskStart
+1562.2122 	EXP 	maskEnd
+1562.6826 	EXP 	Device response: <KeyPress from None: t=1562.6812691688538, value=right, duration=None>
+1562.6844 	DATA 	Keypress: right
+1562.7951 	EXP 	Device response: <KeyPress from None: t=1562.6812691688538, value=right, duration=0.11204338073730469>
+1562.7953 	EXP 	RightResponse
+1562.7992 	EXP 	EndOfTrial
+1562.8031 	EXP 	FeedbackPeriodStarted
+1564.3571 	EXP 	Starting Trial Number 54
+1564.3575 	EXP 	fixationDurationInSec:0.339
+1564.3575 	EXP 	targetDistance:R
+1564.3575 	EXP 	blankDurationInFrameCount:103
+1564.3575 	EXP 	displacement:0.5000
+1564.3604 	EXP 	startFixDisplay
+1564.5020 	EXP 	startFixPeriod
+1564.8393 	EXP 	startWaitForSaccade
+1566.3465 	EXP 	targetPresented
+1566.3548 	EXP 	blankDurationStart
+1566.7834 	EXP 	maskStart
+1567.2830 	EXP 	maskEnd
+1567.8994 	EXP 	Device response: <KeyPress from None: t=1567.8973259925842, value=right, duration=None>
+1567.9007 	DATA 	Keypress: right
+1568.0285 	EXP 	Device response: <KeyPress from None: t=1567.8973259925842, value=right, duration=0.1279737949371338>
+1568.0287 	EXP 	RightResponse
+1568.0324 	EXP 	EndOfTrial
+1568.0366 	EXP 	FeedbackPeriodStarted
+1569.5820 	EXP 	Starting Trial Number 55
+1569.5824 	EXP 	fixationDurationInSec:0.229
+1569.5824 	EXP 	targetDistance:R
+1569.5824 	EXP 	blankDurationInFrameCount:104
+1569.5824 	EXP 	displacement:0.5000
+1569.5854 	EXP 	startFixDisplay
+1569.5895 	EXP 	startFixPeriod
+1569.8145 	EXP 	startWaitForSaccade
+1572.0961 	EXP 	targetPresented
+1575.6162 	EXP 	Starting Trial Number 56
+1575.6166 	EXP 	fixationDurationInSec:0.336
+1575.6166 	EXP 	targetDistance:L
+1575.6166 	EXP 	blankDurationInFrameCount:103
+1575.6166 	EXP 	displacement:0.5000
+1575.6181 	EXP 	startFixDisplay
+1575.6224 	EXP 	startFixPeriod
+1575.9556 	EXP 	startWaitForSaccade
+1577.8832 	EXP 	targetPresented
+1577.8915 	EXP 	blankDurationStart
+1578.3205 	EXP 	maskStart
+1578.8199 	EXP 	maskEnd
+1579.2737 	EXP 	Device response: <KeyPress from None: t=1579.27344083786, value=left, duration=None>
+1579.2749 	DATA 	Keypress: left
+1579.3862 	EXP 	Device response: <KeyPress from None: t=1579.27344083786, value=left, duration=0.11197853088378906>
+1579.3864 	EXP 	LeftResponse
+1579.3902 	EXP 	EndOfTrial
+1579.3944 	EXP 	FeedbackPeriodStarted
+1580.8980 	EXP 	Starting Trial Number 57
+1580.8985 	EXP 	fixationDurationInSec:0.322
+1580.8985 	EXP 	targetDistance:R
+1580.8985 	EXP 	blankDurationInFrameCount:104
+1580.8985 	EXP 	displacement:0.5000
+1580.9017 	EXP 	startFixDisplay
+1580.9058 	EXP 	startFixPeriod
+1581.2264 	EXP 	startWaitForSaccade
+1586.2809 	EXP 	targetPresented
+1586.2890 	EXP 	blankDurationStart
+1586.7221 	EXP 	maskStart
+1587.2258 	EXP 	maskEnd
+1587.7714 	EXP 	Device response: <KeyPress from None: t=1587.7693810462952, value=right, duration=None>
+1587.7733 	DATA 	Keypress: right
+1587.8503 	EXP 	Device response: <KeyPress from None: t=1587.7693810462952, value=right, duration=0.08006501197814941>
+1587.8503 	EXP 	RightResponse
+1587.8544 	EXP 	EndOfTrial
+1587.8587 	EXP 	FeedbackPeriodStarted
+1589.3662 	EXP 	Starting Trial Number 58
+1589.3667 	EXP 	fixationDurationInSec:0.207
+1589.3667 	EXP 	targetDistance:R
+1589.3667 	EXP 	blankDurationInFrameCount:103
+1589.3667 	EXP 	displacement:0.5000
+1589.3700 	EXP 	startFixDisplay
+1589.3741 	EXP 	startFixPeriod
+1589.5783 	EXP 	startWaitForSaccade
+1591.7140 	EXP 	targetPresented
+1595.2340 	EXP 	Starting Trial Number 59
+1595.2344 	EXP 	fixationDurationInSec:0.222
+1595.2344 	EXP 	targetDistance:R
+1595.2344 	EXP 	blankDurationInFrameCount:102
+1595.2344 	EXP 	displacement:0.5000
+1595.2362 	EXP 	startFixDisplay
+1595.2404 	EXP 	startFixPeriod
+1595.4612 	EXP 	startWaitForSaccade
+1595.6860 	EXP 	targetPresented
+1595.6944 	EXP 	blankDurationStart
+1596.1190 	EXP 	maskStart
+1596.6185 	EXP 	maskEnd
+1596.9225 	EXP 	Device response: <KeyPress from None: t=1596.92143201828, value=right, duration=None>
+1596.9245 	DATA 	Keypress: right
+1597.0350 	EXP 	Device response: <KeyPress from None: t=1596.92143201828, value=right, duration=0.11193156242370605>
+1597.0352 	EXP 	RightResponse
+1597.0390 	EXP 	EndOfTrial
+1597.0431 	EXP 	FeedbackPeriodStarted
+1598.5552 	EXP 	Starting Trial Number 60
+1598.5556 	EXP 	fixationDurationInSec:0.365
+1598.5556 	EXP 	targetDistance:R
+1598.5556 	EXP 	blankDurationInFrameCount:102
+1598.5556 	EXP 	displacement:0.5000
+1598.5587 	EXP 	startFixDisplay
+1598.6711 	EXP 	startFixPeriod
+1599.0334 	EXP 	startWaitForSaccade
+1599.5205 	EXP 	targetPresented
+1599.5289 	EXP 	blankDurationStart
+1599.9535 	EXP 	maskStart
+1600.4529 	EXP 	maskEnd
+1600.9539 	DATA 	Keypress: right
+1600.9570 	EXP 	Device response: <KeyPress from None: t=1600.9534232616425, value=right, duration=None>
+1601.0818 	EXP 	Device response: <KeyPress from None: t=1600.9534232616425, value=right, duration=0.12802410125732422>
+1601.0820 	EXP 	RightResponse
+1601.0859 	EXP 	EndOfTrial
+1601.0899 	EXP 	FeedbackPeriodStarted
+1602.5980 	EXP 	Starting Trial Number 61
+1602.5984 	EXP 	fixationDurationInSec:0.292
+1602.5984 	EXP 	targetDistance:R
+1602.5984 	EXP 	blankDurationInFrameCount:101
+1602.5984 	EXP 	displacement:0.5000
+1602.6013 	EXP 	startFixDisplay
+1602.6053 	EXP 	startFixPeriod
+1602.8970 	EXP 	startWaitForSaccade
+1606.5332 	EXP 	Starting Trial Number 62
+1606.5336 	EXP 	fixationDurationInSec:0.300
+1606.5336 	EXP 	targetDistance:L
+1606.5336 	EXP 	blankDurationInFrameCount:108
+1606.5336 	EXP 	displacement:0.5000
+1606.5357 	EXP 	startFixDisplay
+1606.5400 	EXP 	startFixPeriod
+1606.8398 	EXP 	startWaitForSaccade
+1607.6682 	EXP 	targetPresented
+1607.6765 	EXP 	blankDurationStart
+1608.1264 	EXP 	maskStart
+1608.6257 	EXP 	maskEnd
+1608.9381 	EXP 	Device response: <KeyPress from None: t=1608.9374010562897, value=left, duration=None>
+1608.9395 	DATA 	Keypress: left
+1609.0214 	EXP 	Device response: <KeyPress from None: t=1608.9374010562897, value=left, duration=0.07993030548095703>
+1609.0214 	EXP 	LeftResponse
+1609.0254 	EXP 	EndOfTrial
+1609.0297 	EXP 	FeedbackPeriodStarted
+1610.5332 	EXP 	Starting Trial Number 63
+1610.5336 	EXP 	fixationDurationInSec:0.301
+1610.5336 	EXP 	targetDistance:L
+1610.5336 	EXP 	blankDurationInFrameCount:101
+1610.5336 	EXP 	displacement:0.5000
+1610.5369 	EXP 	startFixDisplay
+1610.5410 	EXP 	startFixPeriod
+1610.8408 	EXP 	startWaitForSaccade
+1616.0451 	EXP 	targetPresented
+1616.0534 	EXP 	blankDurationStart
+1616.4740 	EXP 	maskStart
+1616.9735 	EXP 	maskEnd
+1617.2417 	DATA 	Keypress: left
+1617.2442 	EXP 	Device response: <KeyPress from None: t=1617.2414174079895, value=left, duration=None>
+1617.3731 	EXP 	Device response: <KeyPress from None: t=1617.2414174079895, value=left, duration=0.12784290313720703>
+1617.3732 	EXP 	LeftResponse
+1617.3773 	EXP 	EndOfTrial
+1617.3815 	EXP 	FeedbackPeriodStarted
+1618.8850 	EXP 	Starting Trial Number 64
+1618.8854 	EXP 	fixationDurationInSec:0.210
+1618.8855 	EXP 	targetDistance:R
+1618.8855 	EXP 	blankDurationInFrameCount:101
+1618.8855 	EXP 	displacement:0.5000
+1618.8885 	EXP 	startFixDisplay
+1618.8926 	EXP 	startFixPeriod
+1619.1011 	EXP 	startWaitForSaccade
+1622.7212 	EXP 	Starting Trial Number 65
+1622.7216 	EXP 	fixationDurationInSec:0.287
+1622.7216 	EXP 	targetDistance:L
+1622.7216 	EXP 	blankDurationInFrameCount:104
+1622.7216 	EXP 	displacement:0.5000
+1622.7230 	EXP 	startFixDisplay
+1622.7273 	EXP 	startFixPeriod
+1623.0104 	EXP 	startWaitForSaccade
+1627.1155 	EXP 	targetPresented
+1627.1238 	EXP 	blankDurationStart
+1627.5569 	EXP 	maskStart
+1628.0565 	EXP 	maskEnd
+1628.3786 	DATA 	Keypress: left
+1628.3814 	EXP 	Device response: <KeyPress from None: t=1628.3774070739746, value=left, duration=None>
+1628.5061 	EXP 	Device response: <KeyPress from None: t=1628.3774070739746, value=left, duration=0.12801170349121094>
+1628.5063 	EXP 	LeftResponse
+1628.5103 	EXP 	EndOfTrial
+1628.5144 	EXP 	FeedbackPeriodStarted
+1630.0183 	EXP 	Starting Trial Number 66
+1630.0187 	EXP 	fixationDurationInSec:0.270
+1630.0188 	EXP 	targetDistance:L
+1630.0188 	EXP 	blankDurationInFrameCount:103
+1630.0188 	EXP 	displacement:0.5000
+1630.0216 	EXP 	startFixDisplay
+1630.0257 	EXP 	startFixPeriod
+1630.2923 	EXP 	startWaitForSaccade
+1630.3213 	EXP 	targetPresented
+1630.3297 	EXP 	blankDurationStart
+1630.7586 	EXP 	maskStart
+1631.2582 	EXP 	maskEnd
+1631.5789 	EXP 	Device response: <KeyPress from None: t=1631.5774140357971, value=left, duration=None>
+1631.5803 	DATA 	Keypress: left
+1631.7413 	EXP 	Device response: <KeyPress from None: t=1631.5774140357971, value=left, duration=0.15990614891052246>
+1631.7413 	EXP 	LeftResponse
+1631.7453 	EXP 	EndOfTrial
+1631.7494 	EXP 	FeedbackPeriodStarted
+1633.2530 	EXP 	Starting Trial Number 67
+1633.2535 	EXP 	fixationDurationInSec:0.206
+1633.2535 	EXP 	targetDistance:R
+1633.2535 	EXP 	blankDurationInFrameCount:101
+1633.2535 	EXP 	displacement:0.5000
+1633.2565 	EXP 	startFixDisplay
+1633.2607 	EXP 	startFixPeriod
+1633.4647 	EXP 	startWaitForSaccade
+1633.7188 	EXP 	targetPresented
+1633.7270 	EXP 	blankDurationStart
+1634.1476 	EXP 	maskStart
+1634.6472 	EXP 	maskEnd
+1635.0176 	EXP 	Device response: <KeyPress from None: t=1635.0174214839935, value=right, duration=None>
+1635.0189 	DATA 	Keypress: right
+1635.1301 	EXP 	Device response: <KeyPress from None: t=1635.0174214839935, value=right, duration=0.1120147705078125>
+1635.1303 	EXP 	RightResponse
+1635.1343 	EXP 	EndOfTrial
+1635.1383 	EXP 	FeedbackPeriodStarted
+1636.6423 	EXP 	Starting Trial Number 68
+1636.6427 	EXP 	fixationDurationInSec:0.239
+1636.6427 	EXP 	targetDistance:R
+1636.6427 	EXP 	blankDurationInFrameCount:107
+1636.6427 	EXP 	displacement:0.5000
+1636.6455 	EXP 	startFixDisplay
+1636.6497 	EXP 	startFixPeriod
+1636.8871 	EXP 	startWaitForSaccade
+1637.0120 	EXP 	targetPresented
+1637.0203 	EXP 	blankDurationStart
+1637.4659 	EXP 	maskStart
+1637.9655 	EXP 	maskEnd
+1638.2665 	DATA 	Keypress: right
+1638.2695 	EXP 	Device response: <KeyPress from None: t=1638.2653467655182, value=right, duration=None>
+1638.3819 	EXP 	Device response: <KeyPress from None: t=1638.2653467655182, value=right, duration=0.11204123497009277>
+1638.3821 	EXP 	RightResponse
+1638.3859 	EXP 	EndOfTrial
+1638.3900 	EXP 	FeedbackPeriodStarted
+1639.8937 	EXP 	Starting Trial Number 69
+1639.8941 	EXP 	fixationDurationInSec:0.284
+1639.8941 	EXP 	targetDistance:L
+1639.8941 	EXP 	blankDurationInFrameCount:103
+1639.8941 	EXP 	displacement:0.5000
+1639.8972 	EXP 	startFixDisplay
+1639.9013 	EXP 	startFixPeriod
+1640.1846 	EXP 	startWaitForSaccade
+1646.5523 	EXP 	Starting Trial Number 70
+1646.5527 	EXP 	fixationDurationInSec:0.327
+1646.5528 	EXP 	targetDistance:R
+1646.5528 	EXP 	blankDurationInFrameCount:106
+1646.5528 	EXP 	displacement:0.5000
+1646.5544 	EXP 	startFixDisplay
+1646.5587 	EXP 	startFixPeriod
+1646.8835 	EXP 	startWaitForSaccade
+1647.8952 	EXP 	targetPresented
+1647.9034 	EXP 	blankDurationStart
+1648.3448 	EXP 	maskStart
+1648.8445 	EXP 	maskEnd
+1649.2746 	DATA 	Keypress: right
+1649.2776 	EXP 	Device response: <KeyPress from None: t=1649.2734746932983, value=right, duration=None>
+1649.4191 	EXP 	Device response: <KeyPress from None: t=1649.2734746932983, value=right, duration=0.14388203620910645>
+1649.4192 	EXP 	RightResponse
+1649.4231 	EXP 	EndOfTrial
+1649.4271 	EXP 	FeedbackPeriodStarted
+1650.9313 	EXP 	Starting Trial Number 71
+1650.9317 	EXP 	fixationDurationInSec:0.315
+1650.9317 	EXP 	targetDistance:R
+1650.9317 	EXP 	blankDurationInFrameCount:101
+1650.9317 	EXP 	displacement:0.5000
+1650.9344 	EXP 	startFixDisplay
+1650.9387 	EXP 	startFixPeriod
+1651.2510 	EXP 	startWaitForSaccade
+1652.1669 	EXP 	targetPresented
+1652.1752 	EXP 	blankDurationStart
+1652.5958 	EXP 	maskStart
+1653.0952 	EXP 	maskEnd
+1653.4034 	EXP 	Device response: <KeyPress from None: t=1653.4013714790344, value=right, duration=None>
+1653.4046 	DATA 	Keypress: right
+1653.4992 	EXP 	Device response: <KeyPress from None: t=1653.4013714790344, value=right, duration=0.09595513343811035>
+1653.4993 	EXP 	RightResponse
+1653.5033 	EXP 	EndOfTrial
+1653.5074 	EXP 	FeedbackPeriodStarted
+1655.0116 	EXP 	Starting Trial Number 72
+1655.0120 	EXP 	fixationDurationInSec:0.218
+1655.0120 	EXP 	targetDistance:R
+1655.0120 	EXP 	blankDurationInFrameCount:105
+1655.0120 	EXP 	displacement:0.5000
+1655.0145 	EXP 	startFixDisplay
+1655.0188 	EXP 	startFixPeriod
+1655.2353 	EXP 	startWaitForSaccade
+1655.3602 	EXP 	targetPresented
+1655.3685 	EXP 	blankDurationStart
+1655.8057 	EXP 	maskStart
+1656.3052 	EXP 	maskEnd
+1656.8107 	DATA 	Keypress: right
+1656.8133 	EXP 	Device response: <KeyPress from None: t=1656.8093960285187, value=right, duration=None>
+1656.9255 	EXP 	Device response: <KeyPress from None: t=1656.8093960285187, value=right, duration=0.1120293140411377>
+1656.9255 	EXP 	RightResponse
+1656.9297 	EXP 	EndOfTrial
+1656.9338 	EXP 	FeedbackPeriodStarted
+1658.4590 	EXP 	Starting Trial Number 73
+1658.4594 	EXP 	fixationDurationInSec:0.281
+1658.4594 	EXP 	targetDistance:L
+1658.4594 	EXP 	blankDurationInFrameCount:100
+1658.4594 	EXP 	displacement:0.5000
+1658.4618 	EXP 	startFixDisplay
+1658.4660 	EXP 	startFixPeriod
+1658.7451 	EXP 	startWaitForSaccade
+1659.2281 	EXP 	targetPresented
+1659.2364 	EXP 	blankDurationStart
+1659.6527 	EXP 	maskStart
+1660.1521 	EXP 	maskEnd
+1660.4745 	DATA 	Keypress: left
+1660.4771 	EXP 	Device response: <KeyPress from None: t=1660.4734003543854, value=left, duration=None>
+1660.6018 	EXP 	Device response: <KeyPress from None: t=1660.4734003543854, value=left, duration=0.1280672550201416>
+1660.6018 	EXP 	LeftResponse
+1660.6061 	EXP 	EndOfTrial
+1660.6101 	EXP 	FeedbackPeriodStarted
+1662.1143 	EXP 	Starting Trial Number 74
+1662.1148 	EXP 	fixationDurationInSec:0.338
+1662.1148 	EXP 	targetDistance:R
+1662.1148 	EXP 	blankDurationInFrameCount:102
+1662.1148 	EXP 	displacement:0.5000
+1662.1173 	EXP 	startFixDisplay
+1662.1215 	EXP 	startFixPeriod
+1662.4587 	EXP 	startWaitForSaccade
+1663.1790 	EXP 	targetPresented
+1663.1874 	EXP 	blankDurationStart
+1663.6121 	EXP 	maskStart
+1664.1116 	EXP 	maskEnd
+1664.3948 	EXP 	Device response: <KeyPress from None: t=1664.3933625221252, value=right, duration=None>
+1664.3966 	DATA 	Keypress: right
+1664.5407 	EXP 	Device response: <KeyPress from None: t=1664.3933625221252, value=right, duration=0.1439650058746338>
+1664.5408 	EXP 	RightResponse
+1664.5447 	EXP 	EndOfTrial
+1664.5487 	EXP 	FeedbackPeriodStarted
+1666.0529 	EXP 	Starting Trial Number 75
+1666.0534 	EXP 	fixationDurationInSec:0.368
+1666.0534 	EXP 	targetDistance:R
+1666.0534 	EXP 	blankDurationInFrameCount:104
+1666.0534 	EXP 	displacement:0.5000
+1666.0559 	EXP 	startFixDisplay
+1666.0601 	EXP 	startFixPeriod
+1666.4265 	EXP 	startWaitForSaccade
+1666.7971 	EXP 	targetPresented
+1666.8054 	EXP 	blankDurationStart
+1667.2384 	EXP 	maskStart
+1667.7379 	EXP 	maskEnd
+1668.1226 	DATA 	Keypress: right
+1668.1253 	EXP 	Device response: <KeyPress from None: t=1668.1214065551758, value=right, duration=None>
+1668.2834 	EXP 	Device response: <KeyPress from None: t=1668.1214065551758, value=right, duration=0.15991902351379395>
+1668.2834 	EXP 	RightResponse
+1668.2875 	EXP 	EndOfTrial
+1668.2916 	EXP 	FeedbackPeriodStarted
+1669.8004 	EXP 	Starting Trial Number 76
+1669.8008 	EXP 	fixationDurationInSec:0.358
+1669.8009 	EXP 	targetDistance:L
+1669.8009 	EXP 	blankDurationInFrameCount:103
+1669.8009 	EXP 	displacement:0.5000
+1669.8029 	EXP 	startFixDisplay
+1669.8072 	EXP 	startFixPeriod
+1670.1612 	EXP 	startWaitForSaccade
+1678.3861 	EXP 	Starting Trial Number 77
+1678.3865 	EXP 	fixationDurationInSec:0.330
+1678.3865 	EXP 	targetDistance:L
+1678.3865 	EXP 	blankDurationInFrameCount:101
+1678.3865 	EXP 	displacement:0.5000
+1678.3878 	EXP 	startFixDisplay
+1678.3921 	EXP 	startFixPeriod
+1678.7212 	EXP 	startWaitForSaccade
+1683.7253 	EXP 	targetPresented
+1683.7338 	EXP 	blankDurationStart
+1684.1544 	EXP 	maskStart
+1684.6540 	EXP 	maskEnd
+1685.0177 	DATA 	Keypress: left
+1685.0203 	EXP 	Device response: <KeyPress from None: t=1685.0174326896667, value=left, duration=None>
+1685.1953 	EXP 	Device response: <KeyPress from None: t=1685.0174326896667, value=left, duration=0.175947904586792>
+1685.1955 	EXP 	LeftResponse
+1685.1993 	EXP 	EndOfTrial
+1685.2034 	EXP 	FeedbackPeriodStarted
+1686.7074 	EXP 	Starting Trial Number 78
+1686.7078 	EXP 	fixationDurationInSec:0.344
+1686.7078 	EXP 	targetDistance:L
+1686.7078 	EXP 	blankDurationInFrameCount:101
+1686.7078 	EXP 	displacement:0.5000
+1686.7106 	EXP 	startFixDisplay
+1686.7148 	EXP 	startFixPeriod
+1687.0563 	EXP 	startWaitForSaccade
+1692.0604 	EXP 	targetPresented
+1692.0689 	EXP 	blankDurationStart
+1692.4896 	EXP 	maskStart
+1692.9892 	EXP 	maskEnd
+1693.2765 	EXP 	Device response: <KeyPress from None: t=1693.2734336853027, value=left, duration=None>
+1693.2778 	DATA 	Keypress: left
+1693.4178 	EXP 	Device response: <KeyPress from None: t=1693.2734336853027, value=left, duration=0.14404630661010742>
+1693.4178 	EXP 	LeftResponse
+1693.4221 	EXP 	EndOfTrial
+1693.4261 	EXP 	FeedbackPeriodStarted
+1694.9391 	EXP 	Starting Trial Number 79
+1694.9395 	EXP 	fixationDurationInSec:0.364
+1694.9395 	EXP 	targetDistance:L
+1694.9395 	EXP 	blankDurationInFrameCount:100
+1694.9395 	EXP 	displacement:0.5000
+1694.9416 	EXP 	startFixDisplay
+1694.9459 	EXP 	startFixPeriod
+1695.3082 	EXP 	startWaitForSaccade
+1702.9214 	DATA 	Keypress: space
+1702.9216 	EXP 	Removed global key event: 'quitKey'.
+1705.6414 	DATA 	Keypress: x
+1705.6415 	EXP 	Added new global key event: quitKey
+1705.6457 	EXP 	startNoiseCharacterization
+1708.0734 	DATA 	Keypress: comma
+1713.1398 	EXP 	medianPos:-1.4053 deg
+1713.1398 	EXP 	MADPos:1.4053 deg
+1713.1398 	EXP 	medianVelocity:0.0000 deg/sec
+1713.1399 	EXP 	MADvelocity:7.4583 deg/sec
+1719.5615 	DATA 	Keypress: period
+1721.8174 	DATA 	Keypress: period
+1721.8260 	EXP 	Starting Trial Number 80
+1721.8266 	EXP 	fixationDurationInSec:0.245
+1721.8266 	EXP 	targetDistance:L
+1721.8267 	EXP 	blankDurationInFrameCount:103
+1721.8267 	EXP 	displacement:0.5000
+1721.8289 	EXP 	startFixDisplay
+1721.8332 	EXP 	startFixPeriod
+1722.0748 	EXP 	startWaitForSaccade
+1725.6325 	EXP 	Starting Trial Number 81
+1725.6329 	EXP 	fixationDurationInSec:0.315
+1725.6329 	EXP 	targetDistance:L
+1725.6329 	EXP 	blankDurationInFrameCount:103
+1725.6329 	EXP 	displacement:0.5000
+1725.6342 	EXP 	startFixDisplay
+1725.6385 	EXP 	startFixPeriod
+1725.9509 	EXP 	startWaitForSaccade
+1728.8361 	EXP 	targetPresented
+1728.8443 	EXP 	blankDurationStart
+1729.2732 	EXP 	maskStart
+1729.7400 	DATA 	Keypress: left
+1729.7693 	EXP 	Device response: <KeyPress from None: t=1702.9213709831238, value=space, duration=None>
+1729.7694 	EXP 	Device response: <KeyPress from None: t=1702.9213709831238, value=space, duration=0.16004586219787598>
+1729.7694 	EXP 	Device response: <KeyPress from None: t=1705.6414256095886, value=x, duration=None>
+1729.7694 	EXP 	Device response: <KeyPress from None: t=1705.6414256095886, value=x, duration=0.17598533630371094>
+1729.7694 	EXP 	Device response: <KeyPress from None: t=1708.0734219551086, value=comma, duration=None>
+1729.7695 	EXP 	Device response: <KeyPress from None: t=1708.0734219551086, value=comma, duration=0.16002821922302246>
+1729.7695 	EXP 	Device response: <KeyPress from None: t=1719.5614631175995, value=period, duration=None>
+1729.7695 	EXP 	Device response: <KeyPress from None: t=1719.5614631175995, value=period, duration=0.1760084629058838>
+1729.7695 	EXP 	Device response: <KeyPress from None: t=1721.8174464702606, value=period, duration=None>
+1729.7695 	EXP 	Device response: <KeyPress from None: t=1721.8174464702606, value=period, duration=0.17596077919006348>
+1729.7696 	EXP 	Device response: <KeyPress from None: t=1729.7376346588135, value=left, duration=None>
+1729.7727 	EXP 	maskEnd
+1729.8977 	EXP 	Device response: <KeyPress from None: t=1729.7376346588135, value=left, duration=0.15981507301330566>
+1729.8977 	EXP 	LeftResponse
+1729.9019 	EXP 	EndOfTrial
+1729.9059 	EXP 	FeedbackPeriodStarted
+1731.4104 	EXP 	Starting Trial Number 82
+1731.4109 	EXP 	fixationDurationInSec:0.380
+1731.4109 	EXP 	targetDistance:L
+1731.4109 	EXP 	blankDurationInFrameCount:99
+1731.4109 	EXP 	displacement:0.5000
+1731.4132 	EXP 	startFixDisplay
+1731.4173 	EXP 	startFixPeriod
+1731.7964 	EXP 	startWaitForSaccade
+1732.9704 	EXP 	targetPresented
+1732.9787 	EXP 	blankDurationStart
+1733.3910 	EXP 	maskStart
+1733.8905 	EXP 	maskEnd
+1734.2194 	EXP 	Device response: <KeyPress from None: t=1734.21745967865, value=left, duration=None>
+1734.2207 	DATA 	Keypress: left
+1734.3486 	EXP 	Device response: <KeyPress from None: t=1734.21745967865, value=left, duration=0.12788987159729004>
+1734.3488 	EXP 	LeftResponse
+1734.3525 	EXP 	EndOfTrial
+1734.3568 	EXP 	FeedbackPeriodStarted
+1735.9027 	EXP 	Starting Trial Number 83
+1735.9031 	EXP 	fixationDurationInSec:0.252
+1735.9031 	EXP 	targetDistance:L
+1735.9031 	EXP 	blankDurationInFrameCount:98
+1735.9031 	EXP 	displacement:0.5000
+1735.9054 	EXP 	startFixDisplay
+1735.9096 	EXP 	startFixPeriod
+1736.1595 	EXP 	startWaitForSaccade
+1736.6842 	EXP 	targetPresented
+1736.6925 	EXP 	blankDurationStart
+1737.1006 	EXP 	maskStart
+1737.6002 	EXP 	maskEnd
+1737.8832 	EXP 	Device response: <KeyPress from None: t=1737.8814687728882, value=left, duration=None>
+1737.8847 	DATA 	Keypress: left
+1737.9956 	EXP 	Device response: <KeyPress from None: t=1737.8814687728882, value=left, duration=0.11197304725646973>
+1737.9957 	EXP 	LeftResponse
+1737.9997 	EXP 	EndOfTrial
+1738.0037 	EXP 	FeedbackPeriodStarted
+1739.5162 	EXP 	Starting Trial Number 84
+1739.5166 	EXP 	fixationDurationInSec:0.393
+1739.5167 	EXP 	targetDistance:R
+1739.5167 	EXP 	blankDurationInFrameCount:100
+1739.5167 	EXP 	displacement:0.5000
+1739.5194 	EXP 	startFixDisplay
+1762.9558 	DATA 	Keypress: lalt
+1763.3386 	DATA 	Keypress: q
+1763.3387 	EXP 	Global key event: quitKey. Calling <bound method Experiment.quitKey of <experimentClosedLoopPercept.ExperimentClosedLoopPercept object at 0x712248be4070>>.
+1764.0928 	DATA 	Keypress: q
+1764.0928 	EXP 	Global key event: quitKey. Calling <bound method Experiment.quitKey of <experimentClosedLoopPercept.ExperimentClosedLoopPercept object at 0x712248be4070>>.
+1766.1327 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
