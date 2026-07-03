@@ -1,12 +1,23 @@
 import numpy as np
 import matplotlib.pyplot as plt
+'''
+x=np.array([0,1,2,3,4,5])
+y=np.array([99,100,2,300])
+print(x*5+10)
+
+
+'''
 #loading only first three columns
 ts,left_x,left_y,right_x,right_y=np.loadtxt('exampleEyetrackerData.csv',usecols=[0,1,2,4,5],delimiter=',',unpack=True,skiprows=1)
 
+
+
+
 tstart=ts[0]
-ts=(ts-tstart)/1e6   #convert to seconds and do time relative to first time index
+ts=(ts-tstart)   #convert to seconds and do time relative to first time index
 
 x_pos=(left_x+right_x)/2.0  #average of left and right eye position
+
 y_pos=(left_y+right_y)/2.0  #average of left and right eye positions
 
 #TODO in class: show mean position and standard deviation of position.

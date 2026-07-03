@@ -2,8 +2,23 @@ import numpy as np
 import matplotlib.pyplot as plt
 #loading only first three columns
 ts,left_x,left_y=np.loadtxt('exampleEyetrackerData.csv',usecols=[0,1,2],unpack=True,skiprows=1,delimiter=',')
+startTime=ts[0]
 
-plt.plot(left_x)
+#for indx in range(len(ts)):
+#    ts[indx]=ts[indx]-startTime
+'''
+ts=ts-startTime
+plt.plot(ts,left_x,label='x pos')
+plt.plot(ts,left_y,label='y pos')
+plt.xlabel("Time (second)")
+plt.legend()
+#plt.ylabel("Left eye x-position (in pixels)")
+plt.show()
+'''
+
+plt.scatter(left_x,left_y)
+plt.xlim((0,1920))
+plt.ylim((0,1080))
 plt.show()
 
 #TODO in class: plot each variable one at a time
